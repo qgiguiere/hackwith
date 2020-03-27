@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+   <head>
+		<style>
+			div.a {
+				text-align: center;
+			}
+			a {
+            	text-decoration: none;
+        	}
+			#div-a ul.a {
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+				overflow: hidden;
+				background-color: #333;
+			}
+			#div-a ul.b {
+  				list-style-type: square;
+			}
+			
+			#div-a li a {
+			  display: block;
+			  color: white;
+			  text-align: center;
+			  padding: 14px 16px;
+			  text-decoration: none;
+			}
+			
+			#div-a li a:hover {
+			  background-color: #111;
+			}
+			.button {
+				border: none;
+				color: white;
+				padding: 16px 32px;
+				text-align: center;
+				text-decoration: none;
+				display: inline-block;
+				font-size: 24px;
+				margin: 4px 2px;
+				transition-duration: 0.4s;
+				cursor: pointer;
+			}
+			.button1 {
+				background-color: white;
+				color: black;
+				border: 2px solid #555555;
+			}
+
+			.button1:hover {
+				background-color: #555555;
+				color: white;
+			}
+		</style>
+	  <title>Tools</title>
+	  <meta charset="utf-8">
+	  <link rel="icon" type="image/png" sizes="56x56" href="static/images/logo.png">
+	</head>
+   <body>
+	   <div id="div-a">
+			<ul class="a">
+				<li class="a" style="float:right"><a href="/categories">Categories</a></li>
+				<li class="a" style="float:right"><a href="/about">About</a></li>
+				<li class="a" style="float:right"><a class="active" href="/">Home</a></li>
+			</ul>
+	   </div>
+      {% block content %}
+      {% endblock %}
+   </body>
+</html>

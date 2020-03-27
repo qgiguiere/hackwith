@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        div.a {
+			text-align: center;
+		}
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333;
+        }
+        a {
+            text-decoration: none;
+        }
+        li {
+          float: left;
+        }
+        
+        li a {
+          display: block;
+          color: white;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+        }
+        
+        li a:hover {
+          background-color: #111;
+        }
+        </style>
+  <title>Recon</title>
+  <meta charset="utf-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
+    <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.16.0/dist/bootstrap-table.min.css">
+</head>
+<body>
+    <ul>
+        <li style="float:right"><a href="/categories">Categories</a></li>
+        <li style="float:right"><a href="/about">About</a></li>
+        <li style="float:right"><a class="active" href="/">Home</a></li>
+    </ul>
+    <div class="a">
+        <h1>Recon</h1>
+    </div>
+    <table id="recon_table" data-toggle="table" class="display table table-bordered" data-url="static/json/recon.json" data-search="true" data-pagination="true">
+        <thead>
+            <tr>
+                <th data-field="name" data-sortable="true">Name</th>
+                <th data-field="description">Description</th>
+                <th data-field="link" data-formatter="LinkFormatter">Link</th>
+                <th data-field="language">Language</th>
+                <th data-field="maintained" data-sortable="true">Maintained</th>
+                <th data-field="stars" data-sortable="true">Stars</th>
+                <th data-field="author">Author</th>
+            </tr>
+        </thead>
+    </table>
+    <script src="static/js/links.js"></script>
+    <script src="static/js/sort.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://unpkg.com/bootstrap-table@1.16.0/dist/bootstrap-table.min.js"></script>
+</body>
+</html>
