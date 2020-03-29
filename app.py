@@ -24,5 +24,9 @@ def categories():
 def reversing():
     return render_template("reversing.html")
 
+@app.route('/osint')
+def osint():
+    return render_template("osint.html")
+
 if __name__ == "__main__":
     app.run(host='0.0.0.0')
