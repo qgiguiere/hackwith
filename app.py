@@ -20,5 +20,9 @@ def recon():
 def categories():
     return render_template("categories.html")
 
+@app.route('/reversing')
+def reversing():
+    return render_template("reversing.html")
+
 if __name__ == "__main__":
     app.run(host='0.0.0.0')
