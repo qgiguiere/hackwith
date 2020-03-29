@@ -1,0 +1,372 @@
+[
+    {
+        "author": "Craig Heffner",
+        "description": "Firmware Analysis Tool",
+        "id": "1",
+        "language": "Python",
+        "link": "https://github.com/ReFirmLabs/binwalk",
+        "maintained": "Yes",
+        "name": "binwalk",
+        "stars": 5924
+    },
+    {
+        "author": "",
+        "description": "A tool for enumerating the code caves in PE files.",
+        "id": "2",
+        "language": "C++",
+        "link": "https://github.com/EgeBalci/Cminer",
+        "maintained": "No",
+        "name": "cminer",
+        "stars": 93
+    },
+    {
+        "author": "Sergi Alvarez",
+        "description": "UNIX-like reverse engineering framework and command-line toolset",
+        "id": "3",
+        "language": "C",
+        "link": "https://github.com/radareorg/radare2",
+        "maintained": "Yes",
+        "name": "radare2",
+        "stars": 12167
+    },
+    {
+        "author": "Zach Riggle",
+        "description": "Exploit Development and Reverse Engineering with GDB Made Easy",
+        "id": "4",
+        "language": "Python",
+        "link": "https://github.com/pwndbg/pwndbg",
+        "maintained": "Yes",
+        "name": "pwndbg",
+        "stars": 2660
+    },
+    {
+        "author": "",
+        "description": "An open-source x64/x32 debugger for windows.",
+        "id": "5",
+        "language": "C++",
+        "link": "https://github.com/x64dbg/x64dbg",
+        "maintained": "Yes",
+        "name": "x64dbg",
+        "stars": 34893
+    },
+    {
+        "author": "Mike Krüger",
+        "description": ".NET Decompiler",
+        "id": "6",
+        "language": "C#",
+        "link": "https://github.com/icsharpcode/ILSpy",
+        "maintained": "Yes",
+        "name": "ILSpy",
+        "stars": 9822
+    },
+    {
+        "author": "NSA",
+        "description": "A software reverse engineering framework",
+        "id": "7",
+        "language": "Java",
+        "link": "https://github.com/NationalSecurityAgency/ghidra",
+        "maintained": "Yes",
+        "name": "Ghidra",
+        "stars": 20120
+    },
+    {
+        "author": "",
+        "description": "An automation-ready disassembly and static analysis library for PE32, 32+ and shellcode",
+        "id": "8",
+        "language": "Rust",
+        "link": "https://github.com/endgameinc/xori",
+        "maintained": "Yes",
+        "name": "Xori",
+        "stars": 666
+    },
+    {
+        "author": "Jonathan Salwan",
+        "description": "GDB Enhanced Features for exploit devs & reversers",
+        "id": "9",
+        "language": "Python",
+        "link": "https://github.com/hugsy/gef",
+        "maintained": "Yes",
+        "name": "GEF",
+        "stars": 2758
+    },
+    {
+        "author": "",
+        "description": "An interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.",
+        "id": "10",
+        "language": "Python",
+        "link": "https://github.com/plasma-disassembler/plasma",
+        "maintained": "Yes",
+        "name": "Plasma",
+        "stars": 2839
+    },
+    {
+        "author": "",
+        "description": "Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API",
+        "id": "11",
+        "language": "Python",
+        "link": "https://github.com/pfalcon/ScratchABit",
+        "maintained": "Yes",
+        "name": "ScratchABit",
+        "stars": 338
+    },
+    {
+        "author": "Robert Grosse",
+        "description": "Java decompiler, assembler, and disassembler",
+        "id": "12",
+        "language": "Python",
+        "link": "https://github.com/Storyyeller/Krakatau",
+        "maintained": "Yes",
+        "name": "Krakatau",
+        "stars": 1123
+    },
+    {
+        "author": "",
+        "description": "A standalone Java Decompiler GUI",
+        "id": "13",
+        "language": "Java",
+        "link": "https://github.com/java-decompiler/jd-gui",
+        "maintained": "Yes",
+        "name": "JD-GUI",
+        "stars": 8219
+    },
+    {
+        "author": "Mike Strobel",
+        "description": "A suite of Java metaprogramming tools focused on code generation and analysis",
+        "id": "14",
+        "language": "Java",
+        "link": "https://bitbucket.org/mstrobel/procyon/src/default/",
+        "maintained": "Yes",
+        "name": "Procyon",
+        "stars": ""
+    },
+    {
+        "author": "",
+        "description": "An Open Source Java Decompiler Gui for Procyon",
+        "id": "15",
+        "language": "Java",
+        "link": "https://github.com/deathmarine/Luyten",
+        "maintained": "Yes",
+        "name": "Luyten",
+        "stars": 3298
+    },
+    {
+        "author": "Skylot",
+        "description": "Dex to Java decompiler",
+        "id": "16",
+        "language": "Java",
+        "link": "https://github.com/skylot/jadx",
+        "maintained": "Yes",
+        "name": "Jadx",
+        "stars": 21607
+    },
+    {
+        "author": "",
+        "description": ".NET debugger and assembly editor",
+        "id": "17",
+        "language": "C#",
+        "link": "https://github.com/0xd4d/dnSpy",
+        "maintained": "Yes",
+        "name": "dnSpy",
+        "stars": 21607
+    },
+    {
+        "author": "",
+        "description": "Reverse Engineering Platform powered by radare2",
+        "id": "18",
+        "language": "C++",
+        "link": "https://github.com/radareorg/cutter",
+        "maintained": "Yes",
+        "name": "cutter",
+        "stars": 6780
+    },
+    {
+        "author": "",
+        "description": "A retargetable machine-code decompiler based on LLVM",
+        "id": "19",
+        "language": "C++",
+        "link": "https://github.com/avast/retdec",
+        "maintained": "Yes",
+        "name": "RetDec",
+        "stars": 5300
+    },
+    {
+        "author": "",
+        "description": "A native code to C/C++ decompiler, supporting x86, AMD64, and ARM architectures",
+        "id": "20",
+        "language": "C++",
+        "link": "https://github.com/yegord/snowman",
+        "maintained": "No",
+        "name": "Snowman",
+        "stars": 1714
+    },
+    {
+        "author": "Agner Fog",
+        "description": ".NET deobfuscator and unpacker.",
+        "id": "21",
+        "language": "C#",
+        "link": "https://github.com/0xd4d/de4dot",
+        "maintained": "Yes",
+        "name": "de4dot",
+        "stars": 3949
+    },
+    {
+        "author": "Liam Newman, Einar Lielmanis, et al.",
+        "description": "Beautifier for javascript",
+        "id": "22",
+        "language": "Javascript",
+        "link": "https://github.com/beautify-web/js-beautify",
+        "maintained": "Yes",
+        "name": "js-beautify",
+        "stars": 6697
+    },
+    {
+        "author": "",
+        "description": "Tools to work with android .dex and java .class files",
+        "id": "23",
+        "language": "Java",
+        "link": "https://github.com/pxb1988/dex2jar",
+        "maintained": "Yes",
+        "name": "dex2jar",
+        "stars": 7308
+    },
+    {
+        "author": "Sebastian Bachmann",
+        "description": "Reverse engineering, Malware and goodware analysis of Android applications",
+        "id": "24",
+        "language": "Python",
+        "link": "https://github.com/androguard/androguard",
+        "maintained": "Yes",
+        "name": "androguard",
+        "stars": 2955
+    },
+    {
+        "author": "Markus Oberhumer, Laszlo Molnar & John Reiser",
+        "description": "The Ultimate Packer for eXecutables",
+        "id": "25",
+        "language": "C",
+        "link": "https://github.com/upx/upx",
+        "maintained": "Yes",
+        "name": "UPX",
+        "stars": 5126
+    },
+    {
+        "author": "Serge Rider",
+        "description": "Universal database tool and SQL client",
+        "id": "26",
+        "language": "Java",
+        "link": "https://github.com/dbeaver/dbeaver",
+        "maintained": "Yes",
+        "name": "dbeaver",
+        "stars": 12644
+    },
+    {
+        "author": "",
+        "description": "A rewrite of the old legacy software depends.exe to troubleshoot dll load dependencies issues.",
+        "id": "27",
+        "language": "C#",
+        "link": "https://github.com/lucasg/Dependencies",
+        "maintained": "Yes",
+        "name": "Dependencies",
+        "stars": 2220
+    },
+    {
+        "author": "ridiculous_fish",
+        "description": "A fast and clever hex editor for Mac OS X",
+        "id": "28",
+        "language": "Objective-C",
+        "link": "https://github.com/ridiculousfish/HexFiend",
+        "maintained": "Yes",
+        "name": "Hex Fiend",
+        "stars": 3204
+    },
+    {
+        "author": "Nguyen Anh Quynh",
+        "description": "disassembly/disassembler framework",
+        "id": "29",
+        "language": "C",
+        "link": "https://github.com/aquynh/capstone",
+        "maintained": "Yes",
+        "name": "Capstone",
+        "stars": 4144
+    },
+    {
+        "author": "",
+        "description": "Binary Analysis Platform",
+        "id": "30",
+        "language": "OCaml",
+        "link": "https://github.com/BinaryAnalysisPlatform/bap",
+        "maintained": "Yes",
+        "name": "bap",
+        "stars": 1162
+    },
+    {
+        "author": "",
+        "description": "A powerful and user-friendly binary analysis platform",
+        "id": "31",
+        "language": "Python",
+        "link": "https://github.com/angr/angr",
+        "maintained": "Yes",
+        "name": "angr",
+        "stars": 4113
+    },
+    {
+        "author": "Konloch",
+        "description": "A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)",
+        "id": "32",
+        "language": "Java",
+        "link": "https://github.com/konloch/bytecode-viewer",
+        "maintained": "Yes",
+        "name": "Bytecode Viewer",
+        "stars": 11009
+    },
+    {
+        "author": "Jindra Petrik",
+        "description": "Flash SWF decompiler and editor",
+        "id": "33",
+        "language": "Java",
+        "link": "https://github.com/jindrapetrik/jpexs-decompiler",
+        "maintained": "Yes",
+        "name": "JPEXS Decompiler",
+        "stars": 2004
+    },
+    {
+        "author": "",
+        "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.",
+        "id": "34",
+        "language": "C",
+        "link": "https://github.com/processhacker/processhacker",
+        "maintained": "Yes",
+        "name": "Process Hacker",
+        "stars": 3117
+    },
+    {
+        "author": "George Hotz",
+        "description": "QEMU Interactive Runtime Analyser",
+        "id": "35",
+        "language": "C",
+        "link": "https://github.com/geohot/qira",
+        "maintained": "Yes",
+        "name": "QIRA",
+        "stars": 2691
+    },
+    {
+        "author": "Dmitry Levin",
+        "description": "A diagnostic, debugging and instructional userspace utility for Linux",
+        "id": "36",
+        "language": "C",
+        "link": "https://github.com/strace/strace",
+        "maintained": "Yes",
+        "name": "strace",
+        "stars": 2691
+    },
+    {
+        "author": "Connor Tumbleson",
+        "description": "A tool for reverse engineering Android apk files",
+        "id": "37",
+        "language": "Java",
+        "link": "https://github.com/iBotPeaches/Apktool",
+        "maintained": "Yes",
+        "name": "Apktool",
+        "stars": 9771
+    }
+]
