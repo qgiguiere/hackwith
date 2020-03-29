@@ -5,3 +5,6 @@ __pycache__
 lib64
 share
 pyvenv.cfg
+wsgi.py
+hackwith.sock
+hackwith/
