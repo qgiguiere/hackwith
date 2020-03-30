@@ -11,12 +11,19 @@ I made the website open source so that others could easily add their tools or to
 If you want to add the tool please make a pull request. All the information on the tools is stored in json files at `static/json`. Find the json file that applies to the to the tool and edit it following the format of the file. Generally this will include the following information:
 
 `name` - The name of the tool
+
 `description` - a brief description of the tool. Usually the header of the Github repo will work but it can be different if it describes the tool better.
+
 `language` - The programming language the tool is written in.
+
 `maintained` - Whether or not the tool is currently maintained.
+
 `link` - link to the Github repo or wherever the tool is hosted.
+
 `stars` - the number of stars it has on Github. If it is not on Github, put blank quotation marks instead `""`. A script updates the star count daily so don't worry about updating it if the count changes.
+
 `id` - make sure your version is up to date and enter the number following the previous tool on the list.
+
 `author` - The author of the tool if it is easy to find. Not required if you can't figure it out in a reasonable amount of time.
 
 If you want to edit information about a tool already on the site, please submit a pull request and provide information about why your edit is correct. 
