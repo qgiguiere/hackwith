@@ -7,7 +7,7 @@
         "link": "https://github.com/ReFirmLabs/binwalk",
         "maintained": "Yes",
         "name": "binwalk",
-        "stars": 5924
+        "stars": 5930
     },
     {
         "author": "",
@@ -27,7 +27,7 @@
         "link": "https://github.com/radareorg/radare2",
         "maintained": "Yes",
         "name": "radare2",
-        "stars": 12167
+        "stars": 12176
     },
     {
         "author": "Zach Riggle",
@@ -37,7 +37,7 @@
         "link": "https://github.com/pwndbg/pwndbg",
         "maintained": "Yes",
         "name": "pwndbg",
-        "stars": 2660
+        "stars": 2662
     },
     {
         "author": "",
@@ -47,17 +47,17 @@
         "link": "https://github.com/x64dbg/x64dbg",
         "maintained": "Yes",
         "name": "x64dbg",
-        "stars": 34893
+        "stars": 34897
     },
     {
-        "author": "Mike Krüger",
+        "author": "Mike Kr\u00fcger",
         "description": ".NET Decompiler",
         "id": "6",
         "language": "C#",
         "link": "https://github.com/icsharpcode/ILSpy",
         "maintained": "Yes",
         "name": "ILSpy",
-        "stars": 9822
+        "stars": 9833
     },
     {
         "author": "NSA",
@@ -67,7 +67,7 @@
         "link": "https://github.com/NationalSecurityAgency/ghidra",
         "maintained": "Yes",
         "name": "Ghidra",
-        "stars": 20120
+        "stars": 20136
     },
     {
         "author": "",
@@ -87,7 +87,7 @@
         "link": "https://github.com/hugsy/gef",
         "maintained": "Yes",
         "name": "GEF",
-        "stars": 2758
+        "stars": 2762
     },
     {
         "author": "",
@@ -97,7 +97,7 @@
         "link": "https://github.com/plasma-disassembler/plasma",
         "maintained": "Yes",
         "name": "Plasma",
-        "stars": 2839
+        "stars": 2841
     },
     {
         "author": "",
@@ -127,7 +127,7 @@
         "link": "https://github.com/java-decompiler/jd-gui",
         "maintained": "Yes",
         "name": "JD-GUI",
-        "stars": 8219
+        "stars": 8223
     },
     {
         "author": "Mike Strobel",
@@ -157,7 +157,7 @@
         "link": "https://github.com/skylot/jadx",
         "maintained": "Yes",
         "name": "Jadx",
-        "stars": 21607
+        "stars": 21622
     },
     {
         "author": "",
@@ -167,7 +167,7 @@
         "link": "https://github.com/0xd4d/dnSpy",
         "maintained": "Yes",
         "name": "dnSpy",
-        "stars": 21607
+        "stars": 13775
     },
     {
         "author": "",
@@ -177,7 +177,7 @@
         "link": "https://github.com/radareorg/cutter",
         "maintained": "Yes",
         "name": "cutter",
-        "stars": 6780
+        "stars": 6782
     },
     {
         "author": "",
@@ -187,7 +187,7 @@
         "link": "https://github.com/avast/retdec",
         "maintained": "Yes",
         "name": "RetDec",
-        "stars": 5300
+        "stars": 5308
     },
     {
         "author": "",
@@ -197,7 +197,7 @@
         "link": "https://github.com/yegord/snowman",
         "maintained": "No",
         "name": "Snowman",
-        "stars": 1714
+        "stars": 1716
     },
     {
         "author": "Agner Fog",
@@ -207,7 +207,7 @@
         "link": "https://github.com/0xd4d/de4dot",
         "maintained": "Yes",
         "name": "de4dot",
-        "stars": 3949
+        "stars": 3953
     },
     {
         "author": "Liam Newman, Einar Lielmanis, et al.",
@@ -217,7 +217,7 @@
         "link": "https://github.com/beautify-web/js-beautify",
         "maintained": "Yes",
         "name": "js-beautify",
-        "stars": 6697
+        "stars": 6698
     },
     {
         "author": "",
@@ -227,7 +227,7 @@
         "link": "https://github.com/pxb1988/dex2jar",
         "maintained": "Yes",
         "name": "dex2jar",
-        "stars": 7308
+        "stars": 7314
     },
     {
         "author": "Sebastian Bachmann",
@@ -247,7 +247,7 @@
         "link": "https://github.com/upx/upx",
         "maintained": "Yes",
         "name": "UPX",
-        "stars": 5126
+        "stars": 5133
     },
     {
         "author": "Serge Rider",
@@ -257,7 +257,7 @@
         "link": "https://github.com/dbeaver/dbeaver",
         "maintained": "Yes",
         "name": "dbeaver",
-        "stars": 12644
+        "stars": 12668
     },
     {
         "author": "",
@@ -267,7 +267,7 @@
         "link": "https://github.com/lucasg/Dependencies",
         "maintained": "Yes",
         "name": "Dependencies",
-        "stars": 2220
+        "stars": 2223
     },
     {
         "author": "ridiculous_fish",
@@ -297,7 +297,7 @@
         "link": "https://github.com/BinaryAnalysisPlatform/bap",
         "maintained": "Yes",
         "name": "bap",
-        "stars": 1162
+        "stars": 1161
     },
     {
         "author": "",
@@ -307,7 +307,7 @@
         "link": "https://github.com/angr/angr",
         "maintained": "Yes",
         "name": "angr",
-        "stars": 4113
+        "stars": 4114
     },
     {
         "author": "Konloch",
@@ -317,7 +317,7 @@
         "link": "https://github.com/konloch/bytecode-viewer",
         "maintained": "Yes",
         "name": "Bytecode Viewer",
-        "stars": 11009
+        "stars": 11011
     },
     {
         "author": "Jindra Petrik",
@@ -327,7 +327,7 @@
         "link": "https://github.com/jindrapetrik/jpexs-decompiler",
         "maintained": "Yes",
         "name": "JPEXS Decompiler",
-        "stars": 2004
+        "stars": 2005
     },
     {
         "author": "",
@@ -337,7 +337,7 @@
         "link": "https://github.com/processhacker/processhacker",
         "maintained": "Yes",
         "name": "Process Hacker",
-        "stars": 3117
+        "stars": 3119
     },
     {
         "author": "George Hotz",
@@ -347,7 +347,7 @@
         "link": "https://github.com/geohot/qira",
         "maintained": "Yes",
         "name": "QIRA",
-        "stars": 2691
+        "stars": 2698
     },
     {
         "author": "Dmitry Levin",
@@ -357,7 +357,7 @@
         "link": "https://github.com/strace/strace",
         "maintained": "Yes",
         "name": "strace",
-        "stars": 2691
+        "stars": 818
     },
     {
         "author": "Connor Tumbleson",
@@ -367,6 +367,66 @@
         "link": "https://github.com/iBotPeaches/Apktool",
         "maintained": "Yes",
         "name": "Apktool",
-        "stars": 9771
+        "stars": 9774
+    },
+    {
+        "author": "Ole Andr\u00e9 V. Ravn\u00e5s",
+        "description": "Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.",
+        "id": "38",
+        "language": "Python",
+        "link": "https://frida.re/",
+        "maintained": "Yes",
+        "name": "Frida",
+        "stars": ""
+    },
+    {
+        "author": "Aaron Walters",
+        "description": "An advanced memory forensics framework",
+        "id": "39",
+        "language": "Python",
+        "link": "https://github.com/volatilityfoundation/volatility",
+        "maintained": "Yes",
+        "name": "Volatility",
+        "stars": 3519
+    },
+    {
+        "author": "",
+        "description": "Open-source, cross platform Qt based IDE for reverse-engineering Android application packages",
+        "id": "40",
+        "language": "C++",
+        "link": "https://github.com/vaibhavpandeyvpz/apkstudio",
+        "maintained": "Yes",
+        "name": "APK Studio",
+        "stars": 1582
+    },
+    {
+        "author": "Giovanni Rocca",
+        "description": "Full featured multi arch/os debugger built on top of PyQt5 and frida",
+        "id": "41",
+        "language": "Python",
+        "link": "https://github.com/iGio90/Dwarf",
+        "maintained": "Yes",
+        "name": "Dwarf",
+        "stars": 738
+    },
+    {
+        "author": "",
+        "description": "Interactive Reverse Engineering Tool for Android Applications",
+        "id": "42",
+        "language": "C++",
+        "link": "https://github.com/secrary/Andromeda",
+        "maintained": "No",
+        "name": "Andromeda",
+        "stars": 605
+    },
+    {
+        "author": "Aldo Cortesi",
+        "description": "An interactive TLS-capable intercepting HTTP proxy",
+        "id": "43",
+        "language": "Python",
+        "link": "https://github.com/mitmproxy/mitmproxy",
+        "maintained": "Yes",
+        "name": "mitmproxy",
+        "stars": 18286
     }
 ]

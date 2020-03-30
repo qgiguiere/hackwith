@@ -8,3 +8,4 @@ pyvenv.cfg
 wsgi.py
 hackwith.sock
 hackwith/
+stars.py

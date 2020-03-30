@@ -1,0 +1,653 @@
+[
+    {
+        "author": "Konloch",
+        "description": "A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)",
+        "id": "1",
+        "language": "Java",
+        "link": "https://github.com/konloch/bytecode-viewer",
+        "maintained": "Yes",
+        "name": "Bytecode Viewer",
+        "stars": 11009
+    },
+    {
+        "author": "Connor Tumbleson",
+        "description": "A tool for reverse engineering Android apk files",
+        "id": "2",
+        "language": "Java",
+        "link": "https://github.com/iBotPeaches/Apktool",
+        "maintained": "Yes",
+        "name": "Apktool",
+        "stars": 9771
+    },
+    {
+        "author": "",
+        "description": "Tools to work with android .dex and java .class files",
+        "id": "3",
+        "language": "Java",
+        "link": "https://github.com/pxb1988/dex2jar",
+        "maintained": "Yes",
+        "name": "dex2jar",
+        "stars": 7308
+    },
+    {
+        "author": "Sebastian Bachmann",
+        "description": "Reverse engineering, Malware and goodware analysis of Android applications",
+        "id": "4",
+        "language": "Python",
+        "link": "https://github.com/androguard/androguard",
+        "maintained": "Yes",
+        "name": "androguard",
+        "stars": 2955
+    },
+    {
+        "author": "Denis Sazonov",
+        "description": "Software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.",
+        "id": "5",
+        "language": "Python",
+        "link": "https://github.com/den4uk/andriller",
+        "maintained": "Yes",
+        "name": "Andriller",
+        "stars": 433
+    },
+    {
+        "author": "Ole André V. Ravnås",
+        "description": "Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.",
+        "id": "6",
+        "language": "Python",
+        "link": "https://frida.re/",
+        "maintained": "Yes",
+        "name": "Frida",
+        "stars": ""
+    },
+    {
+        "author": "Leon Jacobs",
+        "description": "Runtime mobile exploration",
+        "id": "7",
+        "language": "Python",
+        "link": "https://github.com/sensepost/objection",
+        "maintained": "Yes",
+        "name": "Objection",
+        "stars": 2327
+    },
+    {
+        "author": "Ajin Abraham",
+        "description": "An automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+        "id": "8",
+        "language": "Python, Javascript",
+        "link": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+        "maintained": "Yes",
+        "name": "Mobile Security Framework",
+        "stars": 5697
+    },
+    {
+        "author": "CodeColorist",
+        "description": "Simple iOS app blackbox assessment tool powered by frida",
+        "id": "9",
+        "language": "Vue, Javascript",
+        "link": "https://github.com/chaitin/passionfruit",
+        "maintained": "Yes",
+        "name": "Passionfruit",
+        "stars": 1345
+    },
+    {
+        "author": "Marco Lancini",
+        "description": "The iOS Security Testing Framework",
+        "id": "10",
+        "language": "Python",
+        "link": "https://github.com/FSecureLABS/needle",
+        "maintained": "Yes",
+        "name": "Needle",
+        "stars": 1026
+    },
+    {
+        "author": "",
+        "description": "A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken",
+        "id": "11",
+        "language": "Objective-C",
+        "link": "https://github.com/ptoomey3/Keychain-Dumper",
+        "maintained": "Yes",
+        "name": "Keychain-Dumper",
+        "stars": 1026
+    },
+    {
+        "author": "Daniel Mayer",
+        "description": "A tool to simplify some common tasks for iOS pentesting and research",
+        "id": "12",
+        "language": "Ruby",
+        "link": "https://github.com/dmayer/idb",
+        "maintained": "Yes",
+        "name": "No",
+        "stars": 825
+    },
+    {
+        "author": "Evgeny Aleksandrov",
+        "description": "Quick Look plugin for apps and provisioning profile files",
+        "id": "13",
+        "language": "Objective-C",
+        "link": "https://github.com/ealeksandrov/ProvisionQL",
+        "maintained": "Yes",
+        "name": "ProvisionQL",
+        "stars": 1674
+    },
+    {
+        "author": "dissident",
+        "description": "Fast iOS executable dumper",
+        "id": "14",
+        "language": "Objective-C",
+        "link": "https://github.com/KJCracks/Clutch",
+        "maintained": "Yes",
+        "name": "Clutch",
+        "stars": 2825
+    },
+    {
+        "author": "",
+        "description": "Patch iOS Apps, The Easy Way, Without Jailbreak.",
+        "id": "15",
+        "language": "Objective-C",
+        "link": "https://github.com/Naituw/IPAPatch",
+        "maintained": "Yes",
+        "name": "IPAPatch",
+        "stars": 3289
+    },
+    {
+        "author": "",
+        "description": "Bridges Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. Generally used to hotfix iOS Apps.",
+        "id": "16",
+        "language": "Objective-C, C",
+        "link": "https://github.com/bang590/JSPatch",
+        "maintained": "Yes",
+        "name": "JSPatch",
+        "stars": 11080
+    },
+    {
+        "author": "",
+        "description": "An app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.",
+        "id": "17",
+        "language": "Objective-C, Swift",
+        "link": "https://github.com/DanTheMan827/ios-app-signer",
+        "maintained": "Yes",
+        "name": "iOS App Signer",
+        "stars": 3004
+    },
+    {
+        "author": "Nicolas Seriot",
+        "description": "iOS Objective-C headers as derived from runtime introspection",
+        "id": "18",
+        "language": "Objective-C",
+        "link": "https://github.com/nst/iOS-Runtime-Headers",
+        "maintained": "No",
+        "name": "iOS Runtime Headers",
+        "stars": 7477
+    },
+    {
+        "author": "Alban Diquet",
+        "description": "Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps",
+        "id": "19",
+        "language": "Objective-C",
+        "link": "https://github.com/nabla-c0d3/ssl-kill-switch2",
+        "maintained": "Yes",
+        "name": "SSL Kill Switch 2",
+        "stars": 1602
+    },
+    {
+        "author": "",
+        "description": "A cross-platform suite of tools for building and deploying software for iOS and other platforms.",
+        "id": "20",
+        "language": "Makefile",
+        "link": "https://github.com/theos/theos",
+        "maintained": "Yes",
+        "name": "Theos",
+        "stars": 2860
+    },
+    {
+        "author": "",
+        "description": "Dumps decrypted mach-o files from encrypted iPhone applications from memory to disk.",
+        "id": "21",
+        "language": "C",
+        "link": "https://github.com/stefanesser/dumpdecrypted",
+        "maintained": "No",
+        "name": "Dump Decrypted",
+        "stars": 2393
+    },
+    {
+        "author": "",
+        "description": "Download current and previous versions of Apple's iOS, iPadOS, watchOS, tvOS and audioOS firmware and receive notifications when new firmwares are released.",
+        "id": "22",
+        "language": "",
+        "link": "https://ipsw.me/",
+        "maintained": "Yes",
+        "name": "IPSW",
+        "stars": ""
+    },
+    {
+        "author": "Yu-Cheng Lin",
+        "description": "an efficient Android vulnerability scanner that helps developers or hackers find potential security vulnerabilities in Android applications.",
+        "id": "23",
+        "language": "Python",
+        "link": "https://github.com/AndroBugs/AndroBugs_Framework",
+        "maintained": "Yes",
+        "name": "AndroBugs Framework",
+        "stars": 758
+    },
+    {
+        "author": "",
+        "description": "A manual toolkit for investigating web security",
+        "id": "24",
+        "language": "",
+        "link": "https://portswigger.net/burp",
+        "maintained": "Yes",
+        "name": "Burp Suite",
+        "stars": ""
+    },
+    {
+        "author": "",
+        "description": "Security Assessment Framework for Android",
+        "id": "25",
+        "language": "",
+        "link": "https://github.com/FSecureLABS/drozer",
+        "maintained": "Yes",
+        "name": "Drozer",
+        "stars": 2118
+    },
+    {
+        "author": "Skylot",
+        "description": "Dex to Java decompiler",
+        "id": "26",
+        "language": "Java",
+        "link": "https://github.com/skylot/jadx",
+        "maintained": "Yes",
+        "name": "Jadx",
+        "stars": 21607
+    },
+    {
+        "author": "",
+        "description": "A standalone Java Decompiler GUI",
+        "id": "27",
+        "language": "Java",
+        "link": "https://github.com/java-decompiler/jd-gui",
+        "maintained": "Yes",
+        "name": "JD-GUI",
+        "stars": 8219
+    },
+    {
+        "author": "",
+        "description": "Colored logcat script which only shows log entries for a specific application package.",
+        "id": "28",
+        "language": "Python",
+        "link": "https://github.com/JakeWharton/pidcat",
+        "maintained": "Yes",
+        "name": "PID Cat",
+        "stars": 4108
+    },
+    {
+        "author": "",
+        "description": "Open-source, cross platform Qt based IDE for reverse-engineering Android application packages",
+        "id": "30",
+        "language": "C++",
+        "link": "https://github.com/vaibhavpandeyvpz/apkstudio",
+        "maintained": "Yes",
+        "name": "APK Studio",
+        "stars": 1582
+    },
+    {
+        "author": "",
+        "description": "A wrapper to get de-optimized dex from odex/oat/vdex.",
+        "id": "31",
+        "language": "Java",
+        "link": "https://github.com/testwhat/SmaliEx",
+        "maintained": "No",
+        "name": "SmaliEx",
+        "stars": 420
+    },
+    {
+        "author": "Tushar Dalvi & Tony Trummer",
+        "description": "Tool to look for several security related Android application vulnerabilities",
+        "id": "32",
+        "language": "Python, Java",
+        "link": "https://github.com/linkedin/qark",
+        "maintained": "Yes",
+        "name": "Qark",
+        "stars": 2196
+    },
+    {
+        "author": "",
+        "description": "A command-line application that can be used in Windows, MacOS X and Linux, that analyzes .apk files in search for vulnerabilities.",
+        "id": "33",
+        "language": "Rust",
+        "link": "https://github.com/SUPERAndroidAnalyzer/super",
+        "maintained": "No",
+        "name": "SUPER",
+        "stars": 302
+    },
+    {
+        "author": "Caleb Fenton",
+        "description": "Android virtual machine and deobfuscator",
+        "id": "34",
+        "language": "Java",
+        "link": "https://github.com/CalebFenton/simplify",
+        "maintained": "Yes",
+        "name": "Simplify",
+        "stars": 3216
+    },
+    {
+        "author": "Nikolay Elenkov",
+        "description": "Utility to extract and repack Android backups created with adb backup",
+        "id": "35",
+        "language": "Java",
+        "link": "https://github.com/nelenkov/android-backup-extractor",
+        "maintained": "No",
+        "name": "Android Backup Extractor",
+        "stars": 971
+    },
+    {
+        "author": "",
+        "description": "Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more.",
+        "id": "36",
+        "language": "Java",
+        "link": "https://github.com/ac-pm/Inspeckage",
+        "maintained": "No",
+        "name": "Inspeckage",
+        "stars": 1804
+    },
+    {
+        "author": "",
+        "description": "A universal memory dumper using Frida",
+        "id": "37",
+        "language": "Python",
+        "link": "https://github.com/Nightbringer21/fridump",
+        "maintained": "No",
+        "name": "Fridump",
+        "stars": 318
+    },
+    {
+        "author": "",
+        "description": "A runtime mobile application analysis toolkit with a Web GUI powered by Frida",
+        "id": "38",
+        "language": "Python",
+        "link": "https://github.com/nccgroup/house",
+        "maintained": "Yes",
+        "name": "House",
+        "stars": 675
+    },
+    {
+        "author": "Scott Dunlop",
+        "description": "Android Debugging Library",
+        "id": "39",
+        "language": "Python",
+        "link": "https://github.com/swdunlop/AndBug",
+        "maintained": "Yes",
+        "name": "AndBug",
+        "stars": 529
+    },
+    {
+        "author": "Ryan Welton",
+        "description": "An xposed module that disables SSL certificate checking for the purposes of auditing an app with cert pinning",
+        "id": "40",
+        "language": "Java",
+        "link": "https://github.com/Fuzion24/JustTrustMe",
+        "maintained": "No",
+        "name": "JustTrustMe",
+        "stars": 2074
+    },
+    {
+        "author": "Moxie Marlinspike",
+        "description": "AA standalone library project for certificate pinning on Android.",
+        "id": "41",
+        "language": "Java",
+        "link": "https://github.com/moxie0/AndroidPinning",
+        "maintained": "No",
+        "name": "Android Pinning",
+        "stars": 547
+    },
+    {
+        "author": "",
+        "description": "A simple Android class for encrypting & decrypting strings, aiming to avoid the classic mistakes that most such classes suffer from.",
+        "id": "42",
+        "language": "Java",
+        "link": "https://github.com/tozny/java-aes-crypto",
+        "maintained": "Yes",
+        "name": "java-aes-crypto",
+        "stars": 672
+    },
+    {
+        "author": "",
+        "description": "Java optimizer and obfuscator",
+        "id": "43",
+        "language": "Java",
+        "link": "https://github.com/Guardsquare/proguard",
+        "maintained": "Yes",
+        "name": "Proguard",
+        "stars": 160
+    },
+    {
+        "author": "Scott Alexander-Bown",
+        "description": "Android Shared preference wrapper than encrypts the values of Shared Preferences.",
+        "id": "44",
+        "language": "Java",
+        "link": "https://github.com/scottyab/secure-preferences",
+        "maintained": "Yes",
+        "name": "Secure Preferences",
+        "stars": 1494
+    },
+    {
+        "author": "Scott Alexander-Bown",
+        "description": "Simple to use root checking Android library and sample app",
+        "id": "45",
+        "language": "Java",
+        "link": "https://github.com/scottyab/rootbeer",
+        "maintained": "Yes",
+        "name": "Rootbeer",
+        "stars": 1009
+    },
+    {
+        "author": "",
+        "description": "Allows you to sign or resign unencrypted ipa-files with certificate for which you hold the corresponding private key",
+        "id": "46",
+        "language": "Swift",
+        "link": "https://github.com/xndrs/XReSign",
+        "maintained": "Yes",
+        "name": "XReSign",
+        "stars": 1009
+    },
+    {
+        "author": "",
+        "description": "Allows developers to explore and modify running applications on either iOS or Mac OS X using a hybrid of Objective-C++ and JavaScript syntax through an interactive console that features syntax highlighting and tab completion.",
+        "id": "47",
+        "language": "",
+        "link": "http://www.cycript.org/",
+        "maintained": "No",
+        "name": "cycript",
+        "stars": ""
+    },
+    {
+        "author": "Tom Daniels & Alban Diquet",
+        "description": "Security profiling for blackbox iOS",
+        "id": "48",
+        "language": "Objective-C",
+        "link": "https://github.com/iSECPartners/Introspy-iOS",
+        "maintained": "No",
+        "name": "Introspy-iOS",
+        "stars": 656
+    },
+    {
+        "author": "Bruno Rocha",
+        "description": "Swift Obfuscator that protects iOS apps against reverse engineering attacks.",
+        "id": "49",
+        "language": "Swift",
+        "link": "https://github.com/rockbruno/swiftshield",
+        "maintained": "Yes",
+        "name": "Swiftshield",
+        "stars": 1129
+    },
+    {
+        "author": "Wojciech Regula",
+        "description": "iOS platform security & anti-tampering Swift library",
+        "id": "50",
+        "language": "Swift",
+        "link": "https://github.com/securing/IOSSecuritySuite",
+        "maintained": "Yes",
+        "name": "iOS Security Suite",
+        "stars": 431
+    },
+    {
+        "author": "Gabriel Claudiu Georgiu",
+        "description": "A command line tool to download Android applications directly from the Google Play Store",
+        "id": "51",
+        "language": "Python",
+        "link": "https://github.com/ClaudiuGeorgiu/PlaystoreDownloader",
+        "maintained": "Yes",
+        "name": "Playstore Downloader",
+        "stars": 438
+    },
+    {
+        "author": "",
+        "description": "a static, virtual analysis tool for examining and validating Android apps",
+        "id": "52",
+        "language": "Java",
+        "link": "https://github.com/sonyxperiadev/ApkAnalyser",
+        "maintained": "No",
+        "name": "APK Analyser",
+        "stars": 920
+    },
+    {
+        "author": "Siddique Hameed",
+        "description": "A standalone binary inspection tool for Android",
+        "id": "53",
+        "language": "Java",
+        "link": "https://github.com/google/android-classyshark",
+        "maintained": "Yes",
+        "name": "Classy Shark",
+        "stars": 6245
+    },
+    {
+        "author": "Vincent Cox",
+        "description": "A crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.",
+        "id": "54",
+        "language": "Javascript",
+        "link": "https://github.com/vincentcox/StaCoAn",
+        "maintained": "No",
+        "name": "StaCoAn",
+        "stars": 631
+    },
+    {
+        "author": "Google",
+        "description": "A network security testing tool designed to help developers and security researchers spot and fix weak TLS/SSL connections and sensitive cleartext traffic on devices and applications",
+        "id": "55",
+        "language": "Python",
+        "link": "https://github.com/google/nogotofail",
+        "maintained": "Yes",
+        "name": "nogotofail",
+        "stars": 2563
+    },
+    {
+        "author": "Patrik Lantz",
+        "description": "Dynamic analysis of Android apps",
+        "id": "56",
+        "language": "Python",
+        "link": "https://github.com/pjlantz/droidbox",
+        "maintained": "Yes",
+        "name": "droidbox",
+        "stars": 502
+    },
+    {
+        "author": "",
+        "description": "Dynamic Executable Code Analysis Framework - a binary analysis platform based on QEMU",
+        "id": "57",
+        "language": "C",
+        "link": "https://github.com/decaf-project/DECAF",
+        "maintained": "Yes",
+        "name": "DECAF",
+        "stars": 552
+    },
+    {
+        "author": "Christian Kisutsa",
+        "description": "A Mobile Application Reverse engineering and Analysis Framework. It is a toolkit that puts together commonly used mobile application reverse engineering and analysis tools to assist in testing mobile applications against the OWASP mobile security threats.",
+        "id": "58",
+        "language": "Python",
+        "link": "https://github.com/xtiankisutsa/MARA_Framework",
+        "maintained": "No",
+        "name": "MARA",
+        "stars": 383
+    },
+    {
+        "author": "",
+        "description": "Aims to provide a simple configurable and modulable sandbox to quickly sandbox known or unknown families of Android Malware.",
+        "id": "59",
+        "language": "Python",
+        "link": "https://github.com/Areizen/Android-Malware-Sandbox",
+        "maintained": "Yes",
+        "name": "Android Malware Sandbox",
+        "stars": 128
+    },
+    {
+        "author": "Ben Gruver",
+        "description": "An assembler/disassembler for the dex format",
+        "id": "60",
+        "language": "Java",
+        "link": "https://github.com/JesusFreke/smali",
+        "maintained": "Yes",
+        "name": "smali",
+        "stars": 4258
+    },
+    {
+        "author": "Google",
+        "description": "dex to jar converter",
+        "id": "61",
+        "language": "Python",
+        "link": "https://github.com/google/enjarify",
+        "maintained": "No",
+        "name": "enjarify",
+        "stars": 2487
+    },
+    {
+        "author": "",
+        "description": "Java decompiler",
+        "id": "62",
+        "language": "Java",
+        "link": "https://github.com/fesh0r/fernflower",
+        "maintained": "Yes",
+        "name": "FernFlower",
+        "stars": 1747
+    },
+    {
+        "author": "Giovanni Rocca",
+        "description": "Full featured multi arch/os debugger built on top of PyQt5 and frida",
+        "id": "63",
+        "language": "Python",
+        "link": "https://github.com/iGio90/Dwarf",
+        "maintained": "Yes",
+        "name": "Dwarf",
+        "stars": 738
+    },
+    {
+        "author": "",
+        "description": "Interactive Reverse Engineering Tool for Android Applications",
+        "id": "64",
+        "language": "C++",
+        "link": "https://github.com/secrary/Andromeda",
+        "maintained": "No",
+        "name": "Andromeda",
+        "stars": 605
+    },
+    {
+        "author": "Niklas Higi",
+        "description": "A CLI application that automatically prepares Android APK files for HTTPS inspection",
+        "id": "65",
+        "language": "TypeScript",
+        "link": "https://github.com/shroudedcode/apk-mitm",
+        "maintained": "Yes",
+        "name": "APK-MITM",
+        "stars": 533
+    },
+    {
+        "author": "",
+        "description": "Online apk downloader",
+        "id": "66",
+        "language": "",
+        "link": "https://apkpure.com/",
+        "maintained": "Yes",
+        "name": "apkpure",
+        "stars": 533
+    }
+    
+]

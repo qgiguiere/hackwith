@@ -28,5 +28,9 @@ def reversing():
 def osint():
     return render_template("osint.html")
 
+@app.route('/mobile')
+def mobile():
+    return render_template("mobile.html")
+
 if __name__ == "__main__":
     app.run(host='0.0.0.0')
