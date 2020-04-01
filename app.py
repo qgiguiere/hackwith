@@ -32,5 +32,9 @@ def osint():
 def mobile():
     return render_template("mobile.html")
 
+@app.route('/wireless')
+def wireless():
+    return render_template("wireless.html")
+
 if __name__ == "__main__":
     app.run(host='0.0.0.0')

@@ -1,3 +1,312 @@
 [
-    
+    {
+        "author": "Simone Margaritelli",
+        "description": "The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks",
+        "id": "1",
+        "language": "Go",
+        "link": "https://github.com/bettercap/bettercap",
+        "maintained": "Yes",
+        "name": "Bettercap",
+        "stars": 7059
+    },
+    {
+        "author": "",
+        "description": "An offline Wi-Fi Protected Setup brute-force utility",
+        "id": "2",
+        "language": "C",
+        "link": "https://github.com/wiire-a/pixiewps",
+        "maintained": "Yes",
+        "name": "pixie-wps",
+        "stars": 1032
+    },
+    {
+        "author": "",
+        "description": "WiFi security auditing tools suite",
+        "id": "3",
+        "language": "C",
+        "link": "https://github.com/aircrack-ng/aircrack-ng",
+        "maintained": "Yes",
+        "name": "aircrack-ng",
+        "stars": 1482
+    },
+    {
+        "author": "t6x",
+        "description": "Implements a brute force attack against Wifi Protected Setup (WPS) registrar PINs in order to recover WPA/WPA2 passphrases",
+        "id": "4",
+        "language": "C",
+        "link": "https://github.com/t6x/reaver-wps-fork-t6x",
+        "maintained": "Yes",
+        "name": "Reaver",
+        "stars": 1091
+    },
+    {
+        "author": "v1s1t0r",
+        "description": "A multi-use bash script for Linux systems to audit wireless networks.",
+        "id": "5",
+        "language": "Bash",
+        "link": "https://github.com/v1s1t0r1sh3r3/airgeddon",
+        "maintained": "Yes",
+        "name": "airgeddon",
+        "stars": 2482
+    },
+    {
+        "author": "",
+        "description": "A wireless network and device detector, sniffer, wardriving tool, and WIDS (wireless intrusion detection) framework.",
+        "id": "6",
+        "language": "C++",
+        "link": "https://www.kismetwireless.net",
+        "maintained": "Yes",
+        "name": "Kismet",
+        "stars": ""
+    },
+    {
+        "author": "John Mora",
+        "description": "WPA precomputed cracker",
+        "id": "7",
+        "language": "Python",
+        "link": "https://github.com/JPaulMora/Pyrit",
+        "maintained": "Yes",
+        "name": "Pyrit",
+        "stars": 472
+    },
+    {
+        "author": "Philippe Biondi",
+        "description": "Interactive packet manipulation program and library",
+        "id": "8",
+        "language": "Python",
+        "link": "https://github.com/secdev/scapy",
+        "maintained": "Yes",
+        "name": "Scapy",
+        "stars": 5029
+    },
+    {
+        "author": "Marcos Nesster",
+        "description": "Framework for Rogue Wi-Fi Access Point Attack",
+        "id": "9",
+        "language": "Python",
+        "link": "https://github.com/P0cL4bs/WiFi-Pumpkin",
+        "maintained": "No",
+        "name": "WiFi-Pumpkin",
+        "stars": 2895
+    },
+    {
+        "author": "Bryan Alexande",
+        "description": "Network Attack Tool",
+        "id": "10",
+        "language": "Python",
+        "link": "https://github.com/hatRiot/zarp",
+        "maintained": "No",
+        "name": "Zarp",
+        "stars": 959
+    },
+    {
+        "author": "Alex Nichol",
+        "description": "A GUI, easy to use WiFi network jammer for Mac OS X",
+        "id": "11",
+        "language": "Objective-C",
+        "link": "https://github.com/unixpickle/JamWiFi",
+        "maintained": "No",
+        "name": "JamWiFi",
+        "stars": 726
+    },
+    {
+        "author": "",
+        "description": "A GUI, easy to use WiFi network jammer for Mac OS X",
+        "id": "12",
+        "language": "Swift",
+        "link": "https://github.com/0x0XDev/JamWiFi",
+        "maintained": "Yes",
+        "name": "JamWiFi",
+        "stars": 22
+    },
+    {
+        "author": "Dan McInerney",
+        "description": "Continuously jam all wifi clients/routers",
+        "id": "13",
+        "language": "Python",
+        "link": "https://github.com/DanMcInerney/wifijammer",
+        "maintained": "Yes",
+        "name": "wifijammer",
+        "stars": 3006
+    },
+    {
+        "author": "",
+        "description": "Portable solution for conversion of cap/pcap/pcapng (gz compressed) WiFi dump files to hashcat formats (recommended by hashcat) and to John the Ripper formats. hcx: h = hash, c = convert and calculate candidates, x = different hashtypes",
+        "id": "14",
+        "language": "C",
+        "link": "https://github.com/ZerBea/hcxtools",
+        "maintained": "Yes",
+        "name": "hcxtools",
+        "stars": 925
+    },
+    {
+        "author": "",
+        "description": "Small tool to capture packets from wlan devices.",
+        "id": "15",
+        "language": "C",
+        "link": "https://github.com/ZerBea/hcxdumptool",
+        "maintained": "Yes",
+        "name": "hcxdumptool",
+        "stars": 741
+    },
+    {
+        "author": "",
+        "description": "Android application to brute force WiFi passwords without requiring a rooted device.",
+        "id": "16",
+        "language": "Java",
+        "link": "https://github.com/faizann24/wifi-bruteforcer-fsecurify",
+        "maintained": "No",
+        "name": "WiFi Bruteforcer",
+        "stars": 677
+    },
+    {
+        "author": "",
+        "description": "Shell Script For Attacking Wireless Connections Using Built-In Kali Tools.",
+        "id": "17",
+        "language": "Bash",
+        "link": "https://github.com/esc0rtd3w/wifi-hacker",
+        "maintained": "Yes",
+        "name": "wifi-hacker",
+        "stars": 988
+    },
+    {
+        "author": "derv82",
+        "description": "Runs existing wireless-auditing tools for you.",
+        "id": "18",
+        "language": "Python",
+        "link": "https://github.com/derv82/wifite2",
+        "maintained": "No",
+        "name": "wifite2",
+        "stars": 2105
+    },
+    {
+        "author": "",
+        "description": "Attempts to retrieve the WPA/WPA2 key from a target access point",
+        "id": "19",
+        "language": "Javascript",
+        "link": "https://github.com/FluxionNetwork/fluxion",
+        "maintained": "Yes",
+        "name": "fluxion",
+        "stars": 2273
+    },
+    {
+        "author": "Moxie Marlinspike",
+        "description": "A python program to create a fake AP and sniff data.",
+        "id": "20",
+        "language": "Python",
+        "link": "https://github.com/xdavidhu/mitmAP",
+        "maintained": "No",
+        "name": "mitmAP",
+        "stars": 1441
+    },
+    {
+        "author": "George Chatzisofroniou",
+        "description": "The Rogue Access Point Framework",
+        "id": "21",
+        "language": "Python",
+        "link": "https://github.com/wifiphisher/wifiphisher",
+        "maintained": "Yes",
+        "name": "wifiphisher",
+        "stars": 8750
+    },
+    {
+        "author": "xtr4nge",
+        "description": "A wireless network auditing tool",
+        "id": "22",
+        "language": "PHP",
+        "link": "https://github.com/xtr4nge/FruityWifi",
+        "maintained": "Yes",
+        "name": "FruityWifi",
+        "stars": 1737
+    },
+    {
+        "author": "MisterBianco",
+        "description": "A Suite of Tools written in Python for wireless auditing and security testing.",
+        "id": "23",
+        "language": "Python",
+        "link": "https://github.com/MisterBianco/BoopSuite",
+        "maintained": "Yes",
+        "name": "BoopSuite",
+        "stars": 780
+    },
+    {
+        "author": "Christos Kyriakopoulos",
+        "description": "Aircrack, Airodump, Aireplay, MDK3 and Reaver GUI Application for Android",
+        "id": "24",
+        "language": "Java",
+        "link": "https://github.com/chrisk44/Hijacker",
+        "maintained": "Yes",
+        "name": "Hijacker",
+        "stars": 1607
+    },
+    {
+        "author": "Dan McInerney",
+        "description": "Inject code and spy on wifi users",
+        "id": "25",
+        "language": "Python",
+        "link": "https://github.com/DanMcInerney/LANs.py",
+        "maintained": "No",
+        "name": "LANs.py",
+        "stars": 2395
+    },
+    {
+        "author": "hubert3",
+        "description": "Passive sniffing tool for capturing and visualising WiFi location data disclosed by iOS devices",
+        "id": "26",
+        "language": "Python",
+        "link": "https://github.com/hubert3/iSniff-GPS",
+        "maintained": "No",
+        "name": "iSniff-GPS",
+        "stars": 869
+    },
+    {
+        "author": "",
+        "description": "Wireless stumbling and security tool for Mac OS X",
+        "id": "27",
+        "language": "Objective-C",
+        "link": "https://github.com/IGRSoft/KisMac2",
+        "maintained": "No",
+        "name": "KisMac2",
+        "stars": 812
+    },
+    {
+        "author": "",
+        "description": "High-precision indoor positioning framework",
+        "id": "28",
+        "language": "Go",
+        "link": "https://github.com/schollz/find3",
+        "maintained": "Yes",
+        "name": "Find3",
+        "stars": 3775
+    },
+    {
+        "author": "Pascal van Kooten",
+        "description": "Uses WiFi signals and machine learning to predict where you are",
+        "id": "29",
+        "language": "Python",
+        "link": "https://github.com/kootenpv/whereami",
+        "maintained": "No",
+        "name": "whereami",
+        "stars": 3223
+    },
+    {
+        "author": "",
+        "description": "A wireless. meshing, darknet that uses 802.11 to hide its communications",
+        "id": "30",
+        "language": "Python",
+        "link": "https://github.com/mothran/bunny",
+        "maintained": "No",
+        "name": "Bunny",
+        "stars": 941
+    },
+    {
+        "author": "",
+        "description": "Captive portal designed for embedded systems",
+        "id": "31",
+        "language": "C",
+        "link": "https://github.com/wifidog/wifidog-gateway",
+        "maintained": "Yes",
+        "name": "Wifidog gateway",
+        "stars": 671
+    }
 ]
