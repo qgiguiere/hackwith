@@ -478,15 +478,5 @@
         "maintained": "Yes",
         "name": "BinNavi",
         "stars": 2619
-    },
-    {
-        "author": "Google",
-        "description": "A tool used for REST API pentesting",
-        "id": "49",
-        "language": "Ruby",
-        "link": "https://github.com/Fuzzapi/fuzzapi",
-        "maintained": "No",
-        "name": "Fuzzapi",
-        "stars": 435
     }
 ]

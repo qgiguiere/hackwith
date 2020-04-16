@@ -480,19 +480,9 @@
         "stars": 819
     },
     {
-        "author": "Yassine Aboukir",
-        "description": "Automatically monitor new subdomains deployed by specific organizations",
-        "id": "49",
-        "language": "Python",
-        "link": "https://github.com/yassineaboukir/sublert",
-        "maintained": "No",
-        "name": "Sublert",
-        "stars": 555
-    },
-    {
         "author": "",
         "description": "Finding potential software vulnerabilities from git commit messages",
-        "id": "50",
+        "id": "49",
         "language": "Python",
         "link": "https://github.com/cve-search/git-vuln-finder",
         "maintained": "Yes",

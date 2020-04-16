@@ -118,5 +118,15 @@
         "maintained": "No",
         "name": "Syzkaller",
         "stars": 2864
+    },
+    {
+        "author": "Google",
+        "description": "A tool used for REST API pentesting",
+        "id": "13",
+        "language": "Ruby",
+        "link": "https://github.com/Fuzzapi/fuzzapi",
+        "maintained": "No",
+        "name": "Fuzzapi",
+        "stars": 435
     }
 ]

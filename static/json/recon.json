@@ -558,5 +558,15 @@
         "maintained": "Yes",
         "name": "linux-exploit-suggester",
         "stars": 1757
+    },
+    {
+        "author": "Yassine Aboukir",
+        "description": "Automatically monitor new subdomains deployed by specific organizations",
+        "id": "57",
+        "language": "Python",
+        "link": "https://github.com/yassineaboukir/sublert",
+        "maintained": "No",
+        "name": "Sublert",
+        "stars": 555
     }
 ]
