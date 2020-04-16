@@ -7,7 +7,7 @@
         "link": "https://github.com/evyatarmeged/Raccoon",
         "maintained": "No",
         "name": "Racoon",
-        "stars": 1745
+        "stars": 1767
     },
     {
         "author": "Jordan Potti",
@@ -17,7 +17,7 @@
         "link": "https://github.com/jordanpotti/AWSBucketDump",
         "maintained": "No",
         "name": "AWSBucketDump",
-        "stars": 895
+        "stars": 908
     },
     {
         "author": "Shubham Shah",
@@ -27,7 +27,7 @@
         "link": "https://github.com/infosec-au/altdns",
         "maintained": "Yes",
         "name": "altdns",
-        "stars": 1148
+        "stars": 1160
     },
     {
         "author": "Andreas Georgiou & Jacob Wilkin",
@@ -37,7 +37,7 @@
         "link": "https://github.com/superhedgy/AttackSurfaceMapper",
         "maintained": "Yes",
         "name": "AttackSurfaceMapper",
-        "stars": 554
+        "stars": 560
     },
     {
         "author": "Mazin Ahmed",
@@ -47,7 +47,7 @@
         "link": "https://github.com/mazen160/bfac",
         "maintained": "No",
         "name": "BFAC",
-        "stars": 269
+        "stars": 271
     },
     {
         "author": "Ramon Pinuaga",
@@ -57,7 +57,7 @@
         "link": "https://github.com/v0re/dirb",
         "maintained": "No",
         "name": "dirb",
-        "stars": 74
+        "stars": 78
     },
     {
         "author": "Marc-Olivier Bouchard",
@@ -77,7 +77,7 @@
         "link": "https://github.com/maurosoria/dirsearch",
         "maintained": "Yes",
         "name": "dirsearch",
-        "stars": 3624
+        "stars": 3694
     },
     {
         "author": "Martin Bos & Jason Ashton",
@@ -87,7 +87,7 @@
         "link": "https://github.com/leebaird/discover",
         "maintained": "Yes",
         "name": "Discover",
-        "stars": 1911
+        "stars": 1927
     },
     {
         "author": "Andrew Schwartz",
@@ -107,7 +107,7 @@
         "link": "https://github.com/fwaeytens/dnsenum",
         "maintained": "No",
         "name": "dnsenum",
-        "stars": 317
+        "stars": 320
     },
     {
         "author": "Christopher Truncer",
@@ -117,7 +117,7 @@
         "link": "https://github.com/michenriksen/aquatone",
         "maintained": "No",
         "name": "Aquatone",
-        "stars": 3327
+        "stars": 3357
     },
     {
         "author": "Bishop Fox",
@@ -127,7 +127,7 @@
         "link": "https://github.com/BishopFox/spoofcheck",
         "maintained": "No",
         "name": "Spoofcheck",
-        "stars": 344
+        "stars": 348
     },
     {
         "author": "Gordon Lyon",
@@ -137,7 +137,7 @@
         "link": "https://github.com/nmap/nmap",
         "maintained": "Yes",
         "name": "Nmap",
-        "stars": 3874
+        "stars": 3926
     },
     {
         "author": "Carlos Perez",
@@ -147,7 +147,7 @@
         "link": "https://github.com/darkoperator/dnsrecon",
         "maintained": "Yes",
         "name": "dnsrecon",
-        "stars": 1218
+        "stars": 1229
     },
     {
         "author": "XeroSecurity",
@@ -157,7 +157,7 @@
         "link": "https://github.com/1N3/Sn1per",
         "maintained": "Yes",
         "name": "Sn1per",
-        "stars": 3398
+        "stars": 3442
     },
     {
         "author": "illmob",
@@ -167,7 +167,7 @@
         "link": "https://github.com/xillwillx/skiptracer",
         "maintained": "Yes",
         "name": "Skiptracer",
-        "stars": 530
+        "stars": 536
     },
     {
         "author": "ElevenPaths",
@@ -177,7 +177,7 @@
         "link": "https://github.com/ElevenPaths/FOCA",
         "maintained": "Yes",
         "name": "FOCA",
-        "stars": 1065
+        "stars": 1081
     },
     {
         "author": "Christian Martorella",
@@ -187,7 +187,7 @@
         "link": "https://github.com/laramies/metagoofil",
         "maintained": "No",
         "name": "Metagoofil",
-        "stars": 465
+        "stars": 470
     },
     {
         "author": "Christopher Truncer",
@@ -207,7 +207,7 @@
         "link": "https://github.com/nccgroup/typofinder",
         "maintained": "No",
         "name": "typofinder",
-        "stars": 116
+        "stars": 117
     },
     {
         "author": "Eduard Tolosa",
@@ -217,7 +217,7 @@
         "link": "https://github.com/Edu4rdSHL/findomain",
         "maintained": "Yes",
         "name": "findomain",
-        "stars": 1232
+        "stars": 1265
     },
     {
         "author": "Mark Lowe",
@@ -227,7 +227,7 @@
         "link": "https://github.com/portcullislabs/enum4linux",
         "maintained": "No",
         "name": "enum4linux",
-        "stars": 219
+        "stars": 224
     },
     {
         "author": "RSnake",
@@ -237,7 +237,7 @@
         "link": "https://github.com/davidpepper/fierce-domain-scanner",
         "maintained": "No",
         "name": "fierce-domain-scanner",
-        "stars": 234
+        "stars": 235
     },
     {
         "author": "OJ Reeves",
@@ -247,7 +247,7 @@
         "link": "https://github.com/OJ/gobuster",
         "maintained": "Yes",
         "name": "GoBuster",
-        "stars": 2887
+        "stars": 2970
     },
     {
         "author": "EdOverflow",
@@ -267,7 +267,7 @@
         "link": "https://github.com/trustedsec/hardcidr",
         "maintained": "No",
         "name": "hardCIDR",
-        "stars": 176
+        "stars": 177
     },
     {
         "author": "Ron Bowes",
@@ -277,7 +277,7 @@
         "link": "https://github.com/iagox86/hash_extender",
         "maintained": "No",
         "name": "hash_extender",
-        "stars": 599
+        "stars": 617
     },
     {
         "author": "Dirk-jan Mollema",
@@ -287,7 +287,7 @@
         "link": "https://github.com/dirkjanm/ldapdomaindump",
         "maintained": "Yes",
         "name": "LDAPDomainDump",
-        "stars": 382
+        "stars": 388
     },
     {
         "author": "Shelby Spencer",
@@ -297,7 +297,7 @@
         "link": "https://github.com/shellster/LDAPPER",
         "maintained": "Yes",
         "name": "ldapper",
-        "stars": 134
+        "stars": 135
     },
     {
         "author": "Mike Czumak",
@@ -307,7 +307,7 @@
         "link": "https://github.com/sleventyeleven/linuxprivchecker",
         "maintained": "No",
         "name": "linuxprivchecker",
-        "stars": 462
+        "stars": 475
     },
     {
         "author": "Robert Graham",
@@ -317,7 +317,7 @@
         "link": "https://github.com/robertdavidgraham/masscan",
         "maintained": "Yes",
         "name": "Masscan",
-        "stars": 12096
+        "stars": 12251
     },
     {
         "author": "",
@@ -327,7 +327,7 @@
         "link": "https://github.com/blechschmidt/massdns",
         "maintained": "Yes",
         "name": "Massdns",
-        "stars": 1353
+        "stars": 1374
     },
     {
         "author": "Sachin S Kamath",
@@ -337,7 +337,7 @@
         "link": "https://github.com/sachinkamath/NTLMRecon",
         "maintained": "Yes",
         "name": "NTLMRecon",
-        "stars": 176
+        "stars": 184
     },
     {
         "author": "",
@@ -347,7 +347,7 @@
         "link": "https://github.com/m8r0wn/nullinux",
         "maintained": "Yes",
         "name": "Nullinux",
-        "stars": 376
+        "stars": 378
     },
     {
         "author": "Alex Sotirov ",
@@ -357,7 +357,7 @@
         "link": "https://github.com/trailofbits/onesixtyone",
         "maintained": "Yes",
         "name": "onesixtyone",
-        "stars": 167
+        "stars": 170
     },
     {
         "author": "al14s",
@@ -387,7 +387,7 @@
         "link": "https://github.com/johnnyxmas/ScanCannon",
         "maintained": "Yes",
         "name": "ScanCannon",
-        "stars": 238
+        "stars": 241
     },
     {
         "author": "Mazin Ahmed",
@@ -407,7 +407,7 @@
         "link": "https://github.com/ShawnDEvans/smbmap",
         "maintained": "Yes",
         "name": "smbmap",
-        "stars": 817
+        "stars": 834
     },
     {
         "author": "",
@@ -417,7 +417,7 @@
         "link": "https://github.com/SmartBear/soapui",
         "maintained": "Yes",
         "name": "SoapUI",
-        "stars": 1051
+        "stars": 1058
     },
     {
         "author": "",
@@ -427,7 +427,7 @@
         "link": "https://github.com/arthepsy/ssh-audit",
         "maintained": "No",
         "name": "ssh-audit",
-        "stars": 2530
+        "stars": 2537
     },
     {
         "author": "Ahmed Aboul-Ela",
@@ -437,7 +437,7 @@
         "link": "https://github.com/aboul3la/Sublist3r",
         "maintained": "Yes",
         "name": "Sublist3r",
-        "stars": 4508
+        "stars": 4576
     },
     {
         "author": "Nizamul Rana",
@@ -447,7 +447,7 @@
         "link": "https://github.com/Ice3man543/SubOver",
         "maintained": "No",
         "name": "SubOver",
-        "stars": 481
+        "stars": 487
     },
     {
         "author": "Mark Lowe",
@@ -467,7 +467,7 @@
         "link": "https://github.com/EnableSecurity/wafw00f",
         "maintained": "Yes",
         "name": "wafw00f",
-        "stars": 1749
+        "stars": 1784
     },
     {
         "author": "Sam Bertram",
@@ -477,7 +477,7 @@
         "link": "https://github.com/AonCyberLabs/Windows-Exploit-Suggester",
         "maintained": "No",
         "name": "Windows-Exploit-Suggester",
-        "stars": 2088
+        "stars": 2125
     },
     {
         "author": "Somdev Sangwan",
@@ -487,7 +487,7 @@
         "link": "https://github.com/s0md3v/Arjun",
         "maintained": "Yes",
         "name": "Arjun",
-        "stars": 1505
+        "stars": 1540
     },
     {
         "author": "Allyson O'Malley",
@@ -497,7 +497,7 @@
         "link": "https://github.com/allyomalley/LiveTargetsFinder",
         "maintained": "Yes",
         "name": "LiveTargetsFinder",
-        "stars": 131
+        "stars": 137
     },
     {
         "author": "Tom Hudson",
@@ -507,7 +507,7 @@
         "link": "https://github.com/tomnomnom/httprobe",
         "maintained": "Yes",
         "name": "httprobe",
-        "stars": 592
+        "stars": 667
     },
     {
         "author": "Chris Sullo",
@@ -517,7 +517,7 @@
         "link": "https://github.com/sullo/nikto",
         "maintained": "Yes",
         "name": "nikto",
-        "stars": 3689
+        "stars": 3727
     },
     {
         "author": "Somdev Sangwan",
@@ -527,7 +527,7 @@
         "link": "https://github.com/s0md3v/Silver",
         "maintained": "Yes",
         "name": "Silver",
-        "stars": 416
+        "stars": 425
     },
     {
         "author": "theblackturtle",
@@ -537,7 +537,7 @@
         "link": "https://github.com/jaeles-project/gospider",
         "maintained": "Yes",
         "name": "Gospider",
-        "stars": 136
+        "stars": 152
     },
     {
         "author": "codingo",
@@ -547,7 +547,7 @@
         "link": "https://github.com/projectdiscovery/subfinder",
         "maintained": "Yes",
         "name": "Subfinder",
-        "stars": 2274
+        "stars": 2316
     },
     {
         "author": "",
@@ -557,6 +557,6 @@
         "link": "https://github.com/mzet-/linux-exploit-suggester",
         "maintained": "Yes",
         "name": "linux-exploit-suggester",
-        "stars": 1725
+        "stars": 1757
     }
 ]

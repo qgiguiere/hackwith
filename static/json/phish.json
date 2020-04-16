@@ -7,7 +7,7 @@
         "link": "https://github.com/securestate/king-phisher",
         "maintained": "Yes",
         "name": "King Phisher",
-        "stars": 1079
+        "stars": 1091
     },
     {
         "author": "Taylor Otwell",
@@ -17,7 +17,7 @@
         "link": "https://github.com/Raikia/FiercePhish",
         "maintained": "Yes",
         "name": "Fierce Phish",
-        "stars": 860
+        "stars": 865
     },
     {
         "author": "Jordan Wright",
@@ -27,7 +27,7 @@
         "link": "https://github.com/gophish/gophish",
         "maintained": "Yes",
         "name": "GoPhish",
-        "stars": 4494
+        "stars": 4527
     },
     {
         "author": "Mike Felch",
@@ -37,7 +37,7 @@
         "link": "https://github.com/ustayready/CredSniper",
         "maintained": "No",
         "name": "CredSniper",
-        "stars": 893
+        "stars": 898
     },
     {
         "author": "Doug Bienstock",
@@ -47,7 +47,7 @@
         "link": "https://github.com/fireeye/PwnAuth",
         "maintained": "Yes",
         "name": "PwnAuth",
-        "stars": 197
+        "stars": 202
     },
     {
         "author": "pentestgeek",
@@ -67,7 +67,7 @@
         "link": "https://github.com/kgretzky/evilginx2",
         "maintained": "Yes",
         "name": "evilginx2",
-        "stars": 3023
+        "stars": 3047
     },
     {
         "author": "thelinuxchoice",
@@ -77,7 +77,7 @@
         "link": "https://github.com/thelinuxchoice/blackeye",
         "maintained": "No",
         "name": "Blackeye",
-        "stars": 1510
+        "stars": 1545
     },
     {
         "author": "Mateusz Nalewajski",
@@ -110,7 +110,7 @@
         "stars": 252
     },
     {
-        "author": "Ömer Günal",
+        "author": "\u00d6mer G\u00fcnal",
         "description": "Send tweets with phishing links",
         "id": "12",
         "language": "Python",
@@ -167,6 +167,6 @@
         "link": "https://github.com/Veil-Framework/Veil",
         "maintained": "Yes",
         "name": "Veil",
-        "stars": 2464
+        "stars": 2012
     }
 ]

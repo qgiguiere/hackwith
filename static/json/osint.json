@@ -7,7 +7,7 @@
         "link": "https://github.com/sham00n/buster",
         "maintained": "Yes",
         "name": "buster",
-        "stars": 247
+        "stars": 251
     },
     {
         "author": "khast3x",
@@ -17,7 +17,7 @@
         "link": "https://github.com/khast3x/h8mail",
         "maintained": "Yes",
         "name": "h8mail",
-        "stars": 904
+        "stars": 929
     },
     {
         "author": "Ekultek",
@@ -27,7 +27,7 @@
         "link": "https://github.com/Ekultek/WhatBreach",
         "maintained": "Yes",
         "name": "WhatBreach",
-        "stars": 318
+        "stars": 321
     },
     {
         "author": "Somdev Sangwan",
@@ -37,7 +37,7 @@
         "link": "https://github.com/s0md3v/Hash-Buster",
         "maintained": "Yes",
         "name": "Hash-Buster",
-        "stars": 814
+        "stars": 823
     },
     {
         "author": "woj-ciech",
@@ -47,7 +47,7 @@
         "link": "https://github.com/woj-ciech/LeakLooker",
         "maintained": "Yes",
         "name": "LeakLooker",
-        "stars": 974
+        "stars": 987
     },
     {
         "author": "",
@@ -57,7 +57,7 @@
         "link": "https://github.com/rndinfosecguy/Scavenger",
         "maintained": "Yes",
         "name": "Scavenger",
-        "stars": 230
+        "stars": 236
     },
     {
         "author": "Cody Zacharias",
@@ -67,7 +67,7 @@
         "link": "https://github.com/twintproject/twint",
         "maintained": "Yes",
         "name": "twint",
-        "stars": 3606
+        "stars": 4432
     },
     {
         "author": "Sundowndev",
@@ -77,7 +77,7 @@
         "link": "https://github.com/sundowndev/PhoneInfoga",
         "maintained": "Yes",
         "name": "PhoneInfoga",
-        "stars": 1420
+        "stars": 1506
     },
     {
         "author": "Somdev Sangwan",
@@ -87,7 +87,7 @@
         "link": "https://github.com/s0md3v/Photon",
         "maintained": "Yes",
         "name": "Photon",
-        "stars": 6402
+        "stars": 6453
     },
     {
         "author": "Siddharth Dushantha",
@@ -97,7 +97,7 @@
         "link": "https://github.com/sherlock-project/sherlock",
         "maintained": "Yes",
         "name": "Sherlock",
-        "stars": 11003
+        "stars": 11166
     },
     {
         "author": "Jonathan Broche",
@@ -107,7 +107,7 @@
         "link": "https://github.com/leapsecurity/InSpy",
         "maintained": "No",
         "name": "Inspy",
-        "stars": 350
+        "stars": 349
     },
     {
         "author": "Christopher Truncer",
@@ -117,7 +117,7 @@
         "link": "https://github.com/FortyNorthSecurity/EyeWitness",
         "maintained": "Yes",
         "name": "EyeWitness",
-        "stars": 2303
+        "stars": 2343
     },
     {
         "author": "Jacob Wilkin",
@@ -127,7 +127,7 @@
         "link": "https://github.com/SpiderLabs/social_mapper",
         "maintained": "Yes",
         "name": "Social Mapper",
-        "stars": 2712
+        "stars": 2725
     },
     {
         "author": "Christian Martorella",
@@ -137,7 +137,7 @@
         "link": "https://github.com/laramies/theHarvester",
         "maintained": "Yes",
         "name": "theHarvester",
-        "stars": 3571
+        "stars": 3616
     },
     {
         "author": "Alexander Rymdeko-Harvey & Keelyn Roberts",
@@ -147,7 +147,7 @@
         "link": "https://github.com/SimplySecurity/SimplyEmail",
         "maintained": "No",
         "name": "SimplyEmail",
-        "stars": 694
+        "stars": 702
     },
     {
         "author": "",
@@ -157,7 +157,7 @@
         "link": "https://github.com/dxa4481/truffleHog",
         "maintained": "Yes",
         "name": "truffleHog",
-        "stars": 4591
+        "stars": 4616
     },
     {
         "author": "thewhiteh4t",
@@ -167,7 +167,7 @@
         "link": "https://github.com/thewhiteh4t/pwnedOrNot",
         "maintained": "Yes",
         "name": "pwnedOrNot",
-        "stars": 650
+        "stars": 660
     },
     {
         "author": "",
@@ -177,7 +177,7 @@
         "link": "https://github.com/metac0rtex/GitHarvester",
         "maintained": "No",
         "name": "GitHarvester",
-        "stars": 255
+        "stars": 254
     },
     {
         "author": "davidtavarez & D4Vinci",
@@ -187,7 +187,7 @@
         "link": "https://github.com/davidtavarez/pwndb",
         "maintained": "Yes",
         "name": "pwndb",
-        "stars": 392
+        "stars": 419
     },
     {
         "author": "Vincent Yiu",
@@ -197,7 +197,7 @@
         "link": "https://github.com/vysecurity/LinkedInt",
         "maintained": "No",
         "name": "LinkedInt",
-        "stars": 176
+        "stars": 179
     },
     {
         "author": "",
@@ -207,7 +207,7 @@
         "link": "https://github.com/m8r0wn/CrossLinked",
         "maintained": "Yes",
         "name": "CrossLinked",
-        "stars": 152
+        "stars": 155
     },
     {
         "author": "Maltego",
@@ -227,7 +227,7 @@
         "link": "https://github.com/smicallef/spiderfoot",
         "maintained": "Yes",
         "name": "SpiderFoot",
-        "stars": 4257
+        "stars": 4315
     },
     {
         "author": "Shubham Mittal, Sudhanshu Chauhan, Kunal Aggarwal",
@@ -237,7 +237,7 @@
         "link": "https://github.com/DataSploit/datasploit",
         "maintained": "No",
         "name": "datasploit",
-        "stars": 2250
+        "stars": 2262
     },
     {
         "author": "Tim Tomes",
@@ -247,7 +247,7 @@
         "link": "https://github.com/lanmaster53/recon-ng",
         "maintained": "Yes",
         "name": "Recon-ng",
-        "stars": 608
+        "stars": 629
     },
     {
         "author": "Christopher Maddalena",
@@ -257,7 +257,7 @@
         "link": "https://github.com/GhostManager/DomainCheck",
         "maintained": "No",
         "name": "DomainCheck",
-        "stars": 170
+        "stars": 173
     },
     {
         "author": "Mazin Ahmed",
@@ -267,7 +267,7 @@
         "link": "https://github.com/mazen160/GithubCloner",
         "maintained": "Yes",
         "name": "GithubCloner",
-        "stars": 272
+        "stars": 273
     },
     {
         "author": "",
@@ -277,7 +277,7 @@
         "link": "https://github.com/breenmachine/httpscreenshot",
         "maintained": "No",
         "name": "httpscreenshot",
-        "stars": 421
+        "stars": 427
     },
     {
         "author": "Gerben Javado",
@@ -287,7 +287,7 @@
         "link": "https://github.com/GerbenJavado/LinkFinder",
         "maintained": "Yes",
         "name": "LinkFinder",
-        "stars": 1269
+        "stars": 1319
     },
     {
         "author": "nyxgeek",
@@ -297,7 +297,7 @@
         "link": "https://github.com/nyxgeek/onedrive_user_enum",
         "maintained": "Yes",
         "name": "onedrive_user_enum",
-        "stars": 39
+        "stars": 41
     },
     {
         "author": "F\u00e9lix Brezo & Yaiza Rubio",
@@ -307,7 +307,7 @@
         "link": "https://github.com/i3visio/osrframework",
         "maintained": "Yes",
         "name": "OSRFramework",
-        "stars": 380
+        "stars": 389
     },
     {
         "author": "Laurent Gaffie",
@@ -317,7 +317,7 @@
         "link": "https://github.com/lgandx/PCredz",
         "maintained": "Yes",
         "name": "PCredz",
-        "stars": 798
+        "stars": 800
     },
     {
         "author": "Justin Angel",
@@ -327,7 +327,7 @@
         "link": "https://github.com/arch4ngel/peasant",
         "maintained": "Yes",
         "name": "Peasant",
-        "stars": 135
+        "stars": 140
     },
     {
         "author": "Matt Pickford",
@@ -337,7 +337,7 @@
         "link": "https://github.com/nettitude/Prowl",
         "maintained": "No",
         "name": "Prowl",
-        "stars": 247
+        "stars": 248
     },
     {
         "author": "Martin Gallo",
@@ -357,7 +357,7 @@
         "link": "https://github.com/x0rz/tweets_analyzer",
         "maintained": "Yes",
         "name": "tweets_analyzer",
-        "stars": 2563
+        "stars": 2567
     },
     {
         "author": "Francesco Poldi & Aan Wahyu",
@@ -367,7 +367,7 @@
         "link": "https://github.com/pielco11/fav-up",
         "maintained": "Yes",
         "name": "fav-up",
-        "stars": 437
+        "stars": 440
     },
     {
         "author": "",
@@ -377,7 +377,7 @@
         "link": "https://github.com/woj-ciech/Kamerka-GUI",
         "maintained": "Yes",
         "name": "Kamerka GUI",
-        "stars": 227
+        "stars": 237
     },
     {
         "author": "Gwendal Le Coguic ",
@@ -387,7 +387,7 @@
         "link": "https://github.com/gwen001/github-search",
         "maintained": "Yes",
         "name": "github-search",
-        "stars": 321
+        "stars": 332
     },
     {
         "author": "Paul Price",
@@ -397,7 +397,7 @@
         "link": "https://github.com/eth0izzle/shhgit",
         "maintained": "Yes",
         "name": "shhgit",
-        "stars": 2149
+        "stars": 2168
     },
     {
         "author": "Somdev Sangwan",
@@ -407,7 +407,7 @@
         "link": "https://github.com/s0md3v/Diggy",
         "maintained": "Yes",
         "name": "Diggy",
-        "stars": 524
+        "stars": 529
     },
     {
         "author": "Phantom Insights",
@@ -417,7 +417,7 @@
         "link": "https://github.com/PhantomInsights/subreddit-analyzer",
         "maintained": "Yes",
         "name": "Subreddit Analyzer",
-        "stars": 414
+        "stars": 417
     },
     {
         "author": "Erik Berlin ",
@@ -427,7 +427,7 @@
         "link": "https://github.com/sferik/t",
         "maintained": "Yes",
         "name": "T",
-        "stars": 5012
+        "stars": 5016
     },
     {
         "author": "hartator",
@@ -437,7 +437,7 @@
         "link": "https://github.com/hartator/wayback-machine-downloader",
         "maintained": "No",
         "name": "Wayback Machine Downloader",
-        "stars": 2020
+        "stars": 2059
     },
     {
         "author": "Nikolay Nemshilov",
@@ -457,7 +457,7 @@
         "link": "https://github.com/michenriksen/gitrob",
         "maintained": "No",
         "name": "Gitrob",
-        "stars": 4425
+        "stars": 4458
     },
     {
         "author": "Pawel Rzepa",
@@ -467,7 +467,7 @@
         "link": "https://github.com/securing/DumpsterDiver",
         "maintained": "No",
         "name": "Dumpster Diver",
-        "stars": 349
+        "stars": 360
     },
     {
         "author": "",

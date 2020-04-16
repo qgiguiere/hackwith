@@ -7,7 +7,7 @@
         "link": "https://github.com/ReFirmLabs/binwalk",
         "maintained": "Yes",
         "name": "binwalk",
-        "stars": 5930
+        "stars": 5985
     },
     {
         "author": "",
@@ -27,7 +27,7 @@
         "link": "https://github.com/radareorg/radare2",
         "maintained": "Yes",
         "name": "radare2",
-        "stars": 12176
+        "stars": 12309
     },
     {
         "author": "Zach Riggle",
@@ -37,7 +37,7 @@
         "link": "https://github.com/pwndbg/pwndbg",
         "maintained": "Yes",
         "name": "pwndbg",
-        "stars": 2662
+        "stars": 2712
     },
     {
         "author": "",
@@ -47,7 +47,7 @@
         "link": "https://github.com/x64dbg/x64dbg",
         "maintained": "Yes",
         "name": "x64dbg",
-        "stars": 34897
+        "stars": 34961
     },
     {
         "author": "Mike Kr\u00fcger",
@@ -57,7 +57,7 @@
         "link": "https://github.com/icsharpcode/ILSpy",
         "maintained": "Yes",
         "name": "ILSpy",
-        "stars": 9833
+        "stars": 9965
     },
     {
         "author": "NSA",
@@ -67,7 +67,7 @@
         "link": "https://github.com/NationalSecurityAgency/ghidra",
         "maintained": "Yes",
         "name": "Ghidra",
-        "stars": 20136
+        "stars": 20384
     },
     {
         "author": "",
@@ -77,7 +77,7 @@
         "link": "https://github.com/endgameinc/xori",
         "maintained": "Yes",
         "name": "Xori",
-        "stars": 666
+        "stars": 668
     },
     {
         "author": "Jonathan Salwan",
@@ -87,7 +87,7 @@
         "link": "https://github.com/hugsy/gef",
         "maintained": "Yes",
         "name": "GEF",
-        "stars": 2762
+        "stars": 2802
     },
     {
         "author": "",
@@ -97,7 +97,7 @@
         "link": "https://github.com/plasma-disassembler/plasma",
         "maintained": "Yes",
         "name": "Plasma",
-        "stars": 2841
+        "stars": 2848
     },
     {
         "author": "",
@@ -117,7 +117,7 @@
         "link": "https://github.com/Storyyeller/Krakatau",
         "maintained": "Yes",
         "name": "Krakatau",
-        "stars": 1123
+        "stars": 1133
     },
     {
         "author": "",
@@ -127,7 +127,7 @@
         "link": "https://github.com/java-decompiler/jd-gui",
         "maintained": "Yes",
         "name": "JD-GUI",
-        "stars": 8223
+        "stars": 8323
     },
     {
         "author": "Mike Strobel",
@@ -147,7 +147,7 @@
         "link": "https://github.com/deathmarine/Luyten",
         "maintained": "Yes",
         "name": "Luyten",
-        "stars": 3298
+        "stars": 3328
     },
     {
         "author": "Skylot",
@@ -157,7 +157,7 @@
         "link": "https://github.com/skylot/jadx",
         "maintained": "Yes",
         "name": "Jadx",
-        "stars": 21622
+        "stars": 21817
     },
     {
         "author": "",
@@ -167,7 +167,7 @@
         "link": "https://github.com/0xd4d/dnSpy",
         "maintained": "Yes",
         "name": "dnSpy",
-        "stars": 13775
+        "stars": 14024
     },
     {
         "author": "",
@@ -177,7 +177,7 @@
         "link": "https://github.com/radareorg/cutter",
         "maintained": "Yes",
         "name": "cutter",
-        "stars": 6782
+        "stars": 6873
     },
     {
         "author": "",
@@ -187,7 +187,7 @@
         "link": "https://github.com/avast/retdec",
         "maintained": "Yes",
         "name": "RetDec",
-        "stars": 5308
+        "stars": 5348
     },
     {
         "author": "",
@@ -197,7 +197,7 @@
         "link": "https://github.com/yegord/snowman",
         "maintained": "No",
         "name": "Snowman",
-        "stars": 1716
+        "stars": 1722
     },
     {
         "author": "Agner Fog",
@@ -207,7 +207,7 @@
         "link": "https://github.com/0xd4d/de4dot",
         "maintained": "Yes",
         "name": "de4dot",
-        "stars": 3953
+        "stars": 4008
     },
     {
         "author": "Liam Newman, Einar Lielmanis, et al.",
@@ -217,7 +217,7 @@
         "link": "https://github.com/beautify-web/js-beautify",
         "maintained": "Yes",
         "name": "js-beautify",
-        "stars": 6698
+        "stars": 6719
     },
     {
         "author": "",
@@ -227,7 +227,7 @@
         "link": "https://github.com/pxb1988/dex2jar",
         "maintained": "Yes",
         "name": "dex2jar",
-        "stars": 7314
+        "stars": 7378
     },
     {
         "author": "Sebastian Bachmann",
@@ -237,7 +237,7 @@
         "link": "https://github.com/androguard/androguard",
         "maintained": "Yes",
         "name": "androguard",
-        "stars": 2955
+        "stars": 2988
     },
     {
         "author": "Markus Oberhumer, Laszlo Molnar & John Reiser",
@@ -247,7 +247,7 @@
         "link": "https://github.com/upx/upx",
         "maintained": "Yes",
         "name": "UPX",
-        "stars": 5133
+        "stars": 5256
     },
     {
         "author": "Serge Rider",
@@ -257,7 +257,7 @@
         "link": "https://github.com/dbeaver/dbeaver",
         "maintained": "Yes",
         "name": "dbeaver",
-        "stars": 12668
+        "stars": 12910
     },
     {
         "author": "",
@@ -267,7 +267,7 @@
         "link": "https://github.com/lucasg/Dependencies",
         "maintained": "Yes",
         "name": "Dependencies",
-        "stars": 2223
+        "stars": 2268
     },
     {
         "author": "ridiculous_fish",
@@ -277,7 +277,7 @@
         "link": "https://github.com/ridiculousfish/HexFiend",
         "maintained": "Yes",
         "name": "Hex Fiend",
-        "stars": 3204
+        "stars": 3233
     },
     {
         "author": "Nguyen Anh Quynh",
@@ -287,7 +287,7 @@
         "link": "https://github.com/aquynh/capstone",
         "maintained": "Yes",
         "name": "Capstone",
-        "stars": 4144
+        "stars": 4184
     },
     {
         "author": "",
@@ -297,7 +297,7 @@
         "link": "https://github.com/BinaryAnalysisPlatform/bap",
         "maintained": "Yes",
         "name": "bap",
-        "stars": 1161
+        "stars": 1172
     },
     {
         "author": "",
@@ -307,7 +307,7 @@
         "link": "https://github.com/angr/angr",
         "maintained": "Yes",
         "name": "angr",
-        "stars": 4114
+        "stars": 4148
     },
     {
         "author": "Konloch",
@@ -317,7 +317,7 @@
         "link": "https://github.com/konloch/bytecode-viewer",
         "maintained": "Yes",
         "name": "Bytecode Viewer",
-        "stars": 11011
+        "stars": 11069
     },
     {
         "author": "Jindra Petrik",
@@ -327,7 +327,7 @@
         "link": "https://github.com/jindrapetrik/jpexs-decompiler",
         "maintained": "Yes",
         "name": "JPEXS Decompiler",
-        "stars": 2005
+        "stars": 2035
     },
     {
         "author": "",
@@ -337,7 +337,7 @@
         "link": "https://github.com/processhacker/processhacker",
         "maintained": "Yes",
         "name": "Process Hacker",
-        "stars": 3119
+        "stars": 3184
     },
     {
         "author": "George Hotz",
@@ -347,7 +347,7 @@
         "link": "https://github.com/geohot/qira",
         "maintained": "Yes",
         "name": "QIRA",
-        "stars": 2698
+        "stars": 2729
     },
     {
         "author": "Dmitry Levin",
@@ -357,7 +357,7 @@
         "link": "https://github.com/strace/strace",
         "maintained": "Yes",
         "name": "strace",
-        "stars": 818
+        "stars": 834
     },
     {
         "author": "Connor Tumbleson",
@@ -367,7 +367,7 @@
         "link": "https://github.com/iBotPeaches/Apktool",
         "maintained": "Yes",
         "name": "Apktool",
-        "stars": 9774
+        "stars": 9891
     },
     {
         "author": "Ole Andr\u00e9 V. Ravn\u00e5s",
@@ -387,7 +387,7 @@
         "link": "https://github.com/volatilityfoundation/volatility",
         "maintained": "Yes",
         "name": "Volatility",
-        "stars": 3519
+        "stars": 3555
     },
     {
         "author": "",
@@ -397,7 +397,7 @@
         "link": "https://github.com/vaibhavpandeyvpz/apkstudio",
         "maintained": "Yes",
         "name": "APK Studio",
-        "stars": 1582
+        "stars": 1601
     },
     {
         "author": "Giovanni Rocca",
@@ -407,7 +407,7 @@
         "link": "https://github.com/iGio90/Dwarf",
         "maintained": "Yes",
         "name": "Dwarf",
-        "stars": 738
+        "stars": 753
     },
     {
         "author": "",
@@ -417,7 +417,7 @@
         "link": "https://github.com/secrary/Andromeda",
         "maintained": "No",
         "name": "Andromeda",
-        "stars": 605
+        "stars": 609
     },
     {
         "author": "Aldo Cortesi",
@@ -427,7 +427,7 @@
         "link": "https://github.com/mitmproxy/mitmproxy",
         "maintained": "Yes",
         "name": "mitmproxy",
-        "stars": 18286
+        "stars": 18448
     },
     {
         "author": "gaasedelen",
