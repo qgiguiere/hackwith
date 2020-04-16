@@ -7,7 +7,7 @@
         "link": "https://github.com/konloch/bytecode-viewer",
         "maintained": "Yes",
         "name": "Bytecode Viewer",
-        "stars": 11009
+        "stars": 11069
     },
     {
         "author": "Connor Tumbleson",
@@ -17,7 +17,7 @@
         "link": "https://github.com/iBotPeaches/Apktool",
         "maintained": "Yes",
         "name": "Apktool",
-        "stars": 9771
+        "stars": 9891
     },
     {
         "author": "",
@@ -27,7 +27,7 @@
         "link": "https://github.com/pxb1988/dex2jar",
         "maintained": "Yes",
         "name": "dex2jar",
-        "stars": 7308
+        "stars": 7378
     },
     {
         "author": "Sebastian Bachmann",
@@ -37,7 +37,7 @@
         "link": "https://github.com/androguard/androguard",
         "maintained": "Yes",
         "name": "androguard",
-        "stars": 2955
+        "stars": 2988
     },
     {
         "author": "Denis Sazonov",
@@ -47,10 +47,10 @@
         "link": "https://github.com/den4uk/andriller",
         "maintained": "Yes",
         "name": "Andriller",
-        "stars": 433
+        "stars": 450
     },
     {
-        "author": "Ole André V. Ravnås",
+        "author": "Ole Andr\u00e9 V. Ravn\u00e5s",
         "description": "Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.",
         "id": "6",
         "language": "Python",
@@ -67,7 +67,7 @@
         "link": "https://github.com/sensepost/objection",
         "maintained": "Yes",
         "name": "Objection",
-        "stars": 2327
+        "stars": 2399
     },
     {
         "author": "Ajin Abraham",
@@ -77,7 +77,7 @@
         "link": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
         "maintained": "Yes",
         "name": "Mobile Security Framework",
-        "stars": 5697
+        "stars": 5807
     },
     {
         "author": "CodeColorist",
@@ -87,7 +87,7 @@
         "link": "https://github.com/chaitin/passionfruit",
         "maintained": "Yes",
         "name": "Passionfruit",
-        "stars": 1345
+        "stars": 1356
     },
     {
         "author": "Marco Lancini",
@@ -97,7 +97,7 @@
         "link": "https://github.com/FSecureLABS/needle",
         "maintained": "Yes",
         "name": "Needle",
-        "stars": 1026
+        "stars": 1036
     },
     {
         "author": "",
@@ -107,7 +107,7 @@
         "link": "https://github.com/ptoomey3/Keychain-Dumper",
         "maintained": "Yes",
         "name": "Keychain-Dumper",
-        "stars": 1026
+        "stars": 931
     },
     {
         "author": "Daniel Mayer",
@@ -127,7 +127,7 @@
         "link": "https://github.com/ealeksandrov/ProvisionQL",
         "maintained": "Yes",
         "name": "ProvisionQL",
-        "stars": 1674
+        "stars": 1688
     },
     {
         "author": "dissident",
@@ -137,7 +137,7 @@
         "link": "https://github.com/KJCracks/Clutch",
         "maintained": "Yes",
         "name": "Clutch",
-        "stars": 2825
+        "stars": 2845
     },
     {
         "author": "",
@@ -147,7 +147,7 @@
         "link": "https://github.com/Naituw/IPAPatch",
         "maintained": "Yes",
         "name": "IPAPatch",
-        "stars": 3289
+        "stars": 3304
     },
     {
         "author": "",
@@ -157,7 +157,7 @@
         "link": "https://github.com/bang590/JSPatch",
         "maintained": "Yes",
         "name": "JSPatch",
-        "stars": 11080
+        "stars": 11095
     },
     {
         "author": "",
@@ -167,7 +167,7 @@
         "link": "https://github.com/DanTheMan827/ios-app-signer",
         "maintained": "Yes",
         "name": "iOS App Signer",
-        "stars": 3004
+        "stars": 3050
     },
     {
         "author": "Nicolas Seriot",
@@ -177,7 +177,7 @@
         "link": "https://github.com/nst/iOS-Runtime-Headers",
         "maintained": "No",
         "name": "iOS Runtime Headers",
-        "stars": 7477
+        "stars": 7493
     },
     {
         "author": "Alban Diquet",
@@ -187,7 +187,7 @@
         "link": "https://github.com/nabla-c0d3/ssl-kill-switch2",
         "maintained": "Yes",
         "name": "SSL Kill Switch 2",
-        "stars": 1602
+        "stars": 1623
     },
     {
         "author": "",
@@ -197,7 +197,7 @@
         "link": "https://github.com/theos/theos",
         "maintained": "Yes",
         "name": "Theos",
-        "stars": 2860
+        "stars": 2882
     },
     {
         "author": "",
@@ -207,7 +207,7 @@
         "link": "https://github.com/stefanesser/dumpdecrypted",
         "maintained": "No",
         "name": "Dump Decrypted",
-        "stars": 2393
+        "stars": 2404
     },
     {
         "author": "",
@@ -227,7 +227,7 @@
         "link": "https://github.com/AndroBugs/AndroBugs_Framework",
         "maintained": "Yes",
         "name": "AndroBugs Framework",
-        "stars": 758
+        "stars": 763
     },
     {
         "author": "",
@@ -247,7 +247,7 @@
         "link": "https://github.com/FSecureLABS/drozer",
         "maintained": "Yes",
         "name": "Drozer",
-        "stars": 2118
+        "stars": 2139
     },
     {
         "author": "Skylot",
@@ -257,7 +257,7 @@
         "link": "https://github.com/skylot/jadx",
         "maintained": "Yes",
         "name": "Jadx",
-        "stars": 21607
+        "stars": 21817
     },
     {
         "author": "",
@@ -267,7 +267,7 @@
         "link": "https://github.com/java-decompiler/jd-gui",
         "maintained": "Yes",
         "name": "JD-GUI",
-        "stars": 8219
+        "stars": 8323
     },
     {
         "author": "",
@@ -277,7 +277,7 @@
         "link": "https://github.com/JakeWharton/pidcat",
         "maintained": "Yes",
         "name": "PID Cat",
-        "stars": 4108
+        "stars": 4115
     },
     {
         "author": "",
@@ -287,7 +287,7 @@
         "link": "https://github.com/vaibhavpandeyvpz/apkstudio",
         "maintained": "Yes",
         "name": "APK Studio",
-        "stars": 1582
+        "stars": 1601
     },
     {
         "author": "",
@@ -297,7 +297,7 @@
         "link": "https://github.com/testwhat/SmaliEx",
         "maintained": "No",
         "name": "SmaliEx",
-        "stars": 420
+        "stars": 423
     },
     {
         "author": "Tushar Dalvi & Tony Trummer",
@@ -307,7 +307,7 @@
         "link": "https://github.com/linkedin/qark",
         "maintained": "Yes",
         "name": "Qark",
-        "stars": 2196
+        "stars": 2204
     },
     {
         "author": "",
@@ -317,7 +317,7 @@
         "link": "https://github.com/SUPERAndroidAnalyzer/super",
         "maintained": "No",
         "name": "SUPER",
-        "stars": 302
+        "stars": 304
     },
     {
         "author": "Caleb Fenton",
@@ -327,7 +327,7 @@
         "link": "https://github.com/CalebFenton/simplify",
         "maintained": "Yes",
         "name": "Simplify",
-        "stars": 3216
+        "stars": 3269
     },
     {
         "author": "Nikolay Elenkov",
@@ -337,7 +337,7 @@
         "link": "https://github.com/nelenkov/android-backup-extractor",
         "maintained": "No",
         "name": "Android Backup Extractor",
-        "stars": 971
+        "stars": 985
     },
     {
         "author": "",
@@ -347,7 +347,7 @@
         "link": "https://github.com/ac-pm/Inspeckage",
         "maintained": "No",
         "name": "Inspeckage",
-        "stars": 1804
+        "stars": 1816
     },
     {
         "author": "",
@@ -357,7 +357,7 @@
         "link": "https://github.com/Nightbringer21/fridump",
         "maintained": "No",
         "name": "Fridump",
-        "stars": 318
+        "stars": 321
     },
     {
         "author": "",
@@ -367,7 +367,7 @@
         "link": "https://github.com/nccgroup/house",
         "maintained": "Yes",
         "name": "House",
-        "stars": 675
+        "stars": 693
     },
     {
         "author": "Scott Dunlop",
@@ -377,7 +377,7 @@
         "link": "https://github.com/swdunlop/AndBug",
         "maintained": "Yes",
         "name": "AndBug",
-        "stars": 529
+        "stars": 530
     },
     {
         "author": "Ryan Welton",
@@ -387,7 +387,7 @@
         "link": "https://github.com/Fuzion24/JustTrustMe",
         "maintained": "No",
         "name": "JustTrustMe",
-        "stars": 2074
+        "stars": 2099
     },
     {
         "author": "Moxie Marlinspike",
@@ -397,7 +397,7 @@
         "link": "https://github.com/moxie0/AndroidPinning",
         "maintained": "No",
         "name": "Android Pinning",
-        "stars": 547
+        "stars": 545
     },
     {
         "author": "",
@@ -407,7 +407,7 @@
         "link": "https://github.com/tozny/java-aes-crypto",
         "maintained": "Yes",
         "name": "java-aes-crypto",
-        "stars": 672
+        "stars": 673
     },
     {
         "author": "",
@@ -417,7 +417,7 @@
         "link": "https://github.com/Guardsquare/proguard",
         "maintained": "Yes",
         "name": "Proguard",
-        "stars": 160
+        "stars": 165
     },
     {
         "author": "Scott Alexander-Bown",
@@ -427,7 +427,7 @@
         "link": "https://github.com/scottyab/secure-preferences",
         "maintained": "Yes",
         "name": "Secure Preferences",
-        "stars": 1494
+        "stars": 1496
     },
     {
         "author": "Scott Alexander-Bown",
@@ -437,7 +437,7 @@
         "link": "https://github.com/scottyab/rootbeer",
         "maintained": "Yes",
         "name": "Rootbeer",
-        "stars": 1009
+        "stars": 1028
     },
     {
         "author": "",
@@ -447,7 +447,7 @@
         "link": "https://github.com/xndrs/XReSign",
         "maintained": "Yes",
         "name": "XReSign",
-        "stars": 1009
+        "stars": 176
     },
     {
         "author": "",
@@ -477,7 +477,7 @@
         "link": "https://github.com/rockbruno/swiftshield",
         "maintained": "Yes",
         "name": "Swiftshield",
-        "stars": 1129
+        "stars": 1148
     },
     {
         "author": "Wojciech Regula",
@@ -487,7 +487,7 @@
         "link": "https://github.com/securing/IOSSecuritySuite",
         "maintained": "Yes",
         "name": "iOS Security Suite",
-        "stars": 431
+        "stars": 438
     },
     {
         "author": "Gabriel Claudiu Georgiu",
@@ -497,7 +497,7 @@
         "link": "https://github.com/ClaudiuGeorgiu/PlaystoreDownloader",
         "maintained": "Yes",
         "name": "Playstore Downloader",
-        "stars": 438
+        "stars": 453
     },
     {
         "author": "",
@@ -507,7 +507,7 @@
         "link": "https://github.com/sonyxperiadev/ApkAnalyser",
         "maintained": "No",
         "name": "APK Analyser",
-        "stars": 920
+        "stars": 923
     },
     {
         "author": "Siddique Hameed",
@@ -517,7 +517,7 @@
         "link": "https://github.com/google/android-classyshark",
         "maintained": "Yes",
         "name": "Classy Shark",
-        "stars": 6245
+        "stars": 6279
     },
     {
         "author": "Vincent Cox",
@@ -527,7 +527,7 @@
         "link": "https://github.com/vincentcox/StaCoAn",
         "maintained": "No",
         "name": "StaCoAn",
-        "stars": 631
+        "stars": 634
     },
     {
         "author": "Google",
@@ -537,7 +537,7 @@
         "link": "https://github.com/google/nogotofail",
         "maintained": "Yes",
         "name": "nogotofail",
-        "stars": 2563
+        "stars": 2572
     },
     {
         "author": "Patrik Lantz",
@@ -547,7 +547,7 @@
         "link": "https://github.com/pjlantz/droidbox",
         "maintained": "Yes",
         "name": "droidbox",
-        "stars": 502
+        "stars": 510
     },
     {
         "author": "",
@@ -557,7 +557,7 @@
         "link": "https://github.com/decaf-project/DECAF",
         "maintained": "Yes",
         "name": "DECAF",
-        "stars": 552
+        "stars": 559
     },
     {
         "author": "Christian Kisutsa",
@@ -567,7 +567,7 @@
         "link": "https://github.com/xtiankisutsa/MARA_Framework",
         "maintained": "No",
         "name": "MARA",
-        "stars": 383
+        "stars": 391
     },
     {
         "author": "",
@@ -577,7 +577,7 @@
         "link": "https://github.com/Areizen/Android-Malware-Sandbox",
         "maintained": "Yes",
         "name": "Android Malware Sandbox",
-        "stars": 128
+        "stars": 132
     },
     {
         "author": "Ben Gruver",
@@ -587,7 +587,7 @@
         "link": "https://github.com/JesusFreke/smali",
         "maintained": "Yes",
         "name": "smali",
-        "stars": 4258
+        "stars": 4293
     },
     {
         "author": "Google",
@@ -597,7 +597,7 @@
         "link": "https://github.com/google/enjarify",
         "maintained": "No",
         "name": "enjarify",
-        "stars": 2487
+        "stars": 2491
     },
     {
         "author": "",
@@ -607,7 +607,7 @@
         "link": "https://github.com/fesh0r/fernflower",
         "maintained": "Yes",
         "name": "FernFlower",
-        "stars": 1747
+        "stars": 1764
     },
     {
         "author": "Giovanni Rocca",
@@ -617,7 +617,7 @@
         "link": "https://github.com/iGio90/Dwarf",
         "maintained": "Yes",
         "name": "Dwarf",
-        "stars": 738
+        "stars": 753
     },
     {
         "author": "",
@@ -627,7 +627,7 @@
         "link": "https://github.com/secrary/Andromeda",
         "maintained": "No",
         "name": "Andromeda",
-        "stars": 605
+        "stars": 609
     },
     {
         "author": "Niklas Higi",
@@ -637,7 +637,7 @@
         "link": "https://github.com/shroudedcode/apk-mitm",
         "maintained": "Yes",
         "name": "APK-MITM",
-        "stars": 533
+        "stars": 574
     },
     {
         "author": "",
@@ -669,5 +669,4 @@
         "name": "AuroraStore",
         "stars": 465
     }
-    
 ]
