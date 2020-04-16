@@ -1,0 +1,172 @@
+[
+    {
+        "author": "Secure State",
+        "description": "Phishing Campaign Toolkit",
+        "id": "1",
+        "language": "Python",
+        "link": "https://github.com/securestate/king-phisher",
+        "maintained": "Yes",
+        "name": "King Phisher",
+        "stars": 1079
+    },
+    {
+        "author": "Taylor Otwell",
+        "description": "Phishing framework",
+        "id": "2",
+        "language": "PHP",
+        "link": "https://github.com/Raikia/FiercePhish",
+        "maintained": "Yes",
+        "name": "Fierce Phish",
+        "stars": 860
+    },
+    {
+        "author": "Jordan Wright",
+        "description": "Phishing toolkit",
+        "id": "3",
+        "language": "Go",
+        "link": "https://github.com/gophish/gophish",
+        "maintained": "Yes",
+        "name": "GoPhish",
+        "stars": 4494
+    },
+    {
+        "author": "Mike Felch",
+        "description": "Phishing framework",
+        "id": "4",
+        "language": "Flask",
+        "link": "https://github.com/ustayready/CredSniper",
+        "maintained": "No",
+        "name": "CredSniper",
+        "stars": 893
+    },
+    {
+        "author": "Doug Bienstock",
+        "description": "A web application framework for launching and managing OAuth abuse campaigns.",
+        "id": "5",
+        "language": "Python",
+        "link": "https://github.com/fireeye/PwnAuth",
+        "maintained": "Yes",
+        "name": "PwnAuth",
+        "stars": 197
+    },
+    {
+        "author": "pentestgeek",
+        "description": "Ruby on Rails Phishing Framework",
+        "id": "6",
+        "language": "Ruby",
+        "link": "https://github.com/pentestgeek/phishing-frenzy",
+        "maintained": "No",
+        "name": "Phishing Frenzy",
+        "stars": 594
+    },
+    {
+        "author": "Kuba Gretzky",
+        "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+        "id": "7",
+        "language": "Go",
+        "link": "https://github.com/kgretzky/evilginx2",
+        "maintained": "Yes",
+        "name": "evilginx2",
+        "stars": 3023
+    },
+    {
+        "author": "thelinuxchoice",
+        "description": "Phishing Tool with 32 templates",
+        "id": "8",
+        "language": "PHP",
+        "link": "https://github.com/thelinuxchoice/blackeye",
+        "maintained": "No",
+        "name": "Blackeye",
+        "stars": 1510
+    },
+    {
+        "author": "Mateusz Nalewajski",
+        "description": "Fully-featured spear-phishing toolkit",
+        "id": "9",
+        "language": "Node.js",
+        "link": "https://github.com/m1nl/pompa",
+        "maintained": "Yes",
+        "name": "Pompa",
+        "stars": 37
+    },
+    {
+        "author": "David Kennedy",
+        "description": "SET has a number of custom attack vectors that allow you to make a believable attack quickly",
+        "id": "10",
+        "language": "Python",
+        "link": "https://github.com/trustedsec/social-engineer-toolkit",
+        "maintained": "Yes",
+        "name": "The Social-Engineer Toolkit (SET)",
+        "stars": 5253
+    },
+    {
+        "author": "Atexio",
+        "description": "Phishing campaign toolkit",
+        "id": "11",
+        "language": "Python",
+        "link": "https://github.com/atexio/mercure",
+        "maintained": "Yes",
+        "name": "Mercure",
+        "stars": 252
+    },
+    {
+        "author": "Ömer Günal",
+        "description": "Send tweets with phishing links",
+        "id": "12",
+        "language": "Python",
+        "link": "https://github.com/omergunal/PoT",
+        "maintained": "No",
+        "name": "Phishing on Twitter",
+        "stars": 214
+    },
+    {
+        "author": "Joe Vest & Andrew Chiles",
+        "description": "Checks expired domains for categorization/reputation and Archive.org history to determine good candidates for phishing and C2 domain names",
+        "id": "13",
+        "language": "Python",
+        "link": "https://github.com/threatexpress/domainhunter",
+        "maintained": "Yes",
+        "name": "Domain Hunter",
+        "stars": 830
+    },
+    {
+        "author": "UndeadSec",
+        "description": "Powerful tool for creating convincing phishing pages for social media websites",
+        "id": "14",
+        "language": "Python",
+        "link": "https://github.com/UndeadSec/SocialFish",
+        "maintained": "Yes",
+        "name": "SocialFish",
+        "stars": 1515
+    },
+    {
+        "author": "curi0sJack",
+        "description": "A PowerShell based utility for the creation of malicious Office macro documents.",
+        "id": "15",
+        "language": "Python",
+        "link": "https://github.com/curi0usJack/luckystrike",
+        "maintained": "No",
+        "name": "luckystrike",
+        "stars": 881
+    },
+    {
+        "author": "Joshua Pitts",
+        "description": "Patch executable binaries with user desired shellcode and continue normal execution of the prepatched state",
+        "id": "16",
+        "language": "Python",
+        "link": "https://github.com/secretsquirrel/the-backdoor-factory",
+        "maintained": "No",
+        "name": "The Backdoor Factory",
+        "stars": 2464
+    },
+    {
+        "author": "Chris Truncer",
+        "description": "Generate metasploit payloads that bypass common anti-virus solutions.",
+        "id": "17",
+        "language": "Python",
+        "link": "https://github.com/Veil-Framework/Veil",
+        "maintained": "Yes",
+        "name": "Veil",
+        "stars": 2464
+    }
+]

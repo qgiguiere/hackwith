@@ -36,5 +36,9 @@ def mobile():
 def wireless():
     return render_template("wireless.html")
 
+@app.route('/phish')
+def phish():
+    return render_template("phish.html")
+
 if __name__ == "__main__":
     app.run(host='0.0.0.0')
