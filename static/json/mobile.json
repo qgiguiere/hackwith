@@ -648,6 +648,26 @@
         "maintained": "Yes",
         "name": "apkpure",
         "stars": 533
+    },
+    {
+        "author": "Matlink",
+        "description": "Google Play Downloader via Command line",
+        "id": "67",
+        "language": "Python",
+        "link": "https://github.com/matlink/gplaycli",
+        "maintained": "Yes",
+        "name": "gplaycli",
+        "stars": 678
+    },
+    {
+        "author": "",
+        "description": "An Open Source alternative for Google Play Store",
+        "id": "68",
+        "language": "Java",
+        "link": "https://gitlab.com/AuroraOSS/AuroraStore",
+        "maintained": "Yes",
+        "name": "AuroraStore",
+        "stars": 465
     }
     
 ]

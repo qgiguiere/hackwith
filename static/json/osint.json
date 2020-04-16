@@ -468,5 +468,35 @@
         "maintained": "No",
         "name": "Dumpster Diver",
         "stars": 349
+    },
+    {
+        "author": "",
+        "description": "Monitor GitHub to search and find sensitive data in real time",
+        "id": "48",
+        "language": "Python",
+        "link": "https://github.com/hisxo/gitGraber",
+        "maintained": "No",
+        "name": "gitGraber",
+        "stars": 819
+    },
+    {
+        "author": "Yassine Aboukir",
+        "description": "Automatically monitor new subdomains deployed by specific organizations",
+        "id": "49",
+        "language": "Python",
+        "link": "https://github.com/yassineaboukir/sublert",
+        "maintained": "No",
+        "name": "Sublert",
+        "stars": 555
+    },
+    {
+        "author": "",
+        "description": "Finding potential software vulnerabilities from git commit messages",
+        "id": "50",
+        "language": "Python",
+        "link": "https://github.com/cve-search/git-vuln-finder",
+        "maintained": "Yes",
+        "name": "git-vuln-finder",
+        "stars": 180
     }
 ]

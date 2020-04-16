@@ -1,0 +1,122 @@
+[
+    {
+        "author": "Google",
+        "description": "ClusterFuzz is a scalable fuzzing infrastructure that finds security and stability issues in software.",
+        "id": "1",
+        "language": "Python",
+        "link": "https://github.com/google/clusterfuzz",
+        "maintained": "Yes",
+        "name": "ClusterFuzz",
+        "stars": 4179
+    },
+    {
+        "author": "Ivan Fratric",
+        "description": "Security-oriented fuzzer",
+        "id": "2",
+        "language": "C",
+        "link": "https://lcamtuf.coredump.cx/afl/",
+        "maintained": "Yes",
+        "name": "American fuzzy lop (AFL)",
+        "stars": 
+    },
+    {
+        "author": "Ivan Fratric",
+        "description": "A fork of AFL for fuzzing Windows binaries",
+        "id": "3",
+        "language": "C",
+        "link": "https://github.com/googleprojectzero/winafl",
+        "maintained": "Yes",
+        "name": "WinAFL",
+        "stars": 1437
+    },
+    {
+        "author": "",
+        "description": "A Python interface to AFL, allowing for easy injection of testcases and other functionality.",
+        "id": "4",
+        "language": "Python",
+        "link": "https://github.com/shellphish/fuzzer",
+        "maintained": "No",
+        "name": "Fuzzer",
+        "stars": 558
+    },
+    {
+        "author": "Dmitry Vyukov",
+        "description": "Coverage-guided fuzzing solution for testing of Go packages",
+        "id": "5",
+        "language": "Go",
+        "link": "https://github.com/dvyukov/go-fuzz",
+        "maintained": "Yes",
+        "name": "Go-fuzz",
+        "stars": 3383
+    },
+    {
+        "author": "",
+        "description": "Fuzzing Rust code with american-fuzzy-lop",
+        "id": "6",
+        "language": "C",
+        "link": "https://github.com/rust-fuzz/afl.rs",
+        "maintained": "Yes",
+        "name": "AFL.rs",
+        "stars": 863
+    },
+    {
+        "author": "Google",
+        "description": "A security oriented, feedback-driven, evolutionary, easy-to-use fuzzer with interesting analysis options.",
+        "id": "7",
+        "language": "C",
+        "link": "https://github.com/google/honggfuzz",
+        "maintained": "Yes",
+        "name": "Honggfuzz ",
+        "stars": 1827
+    },
+    {
+        "author": "Aki Helin",
+        "description": "A general-purpose fuzzer",
+        "id": "8",
+        "language": "Scheme",
+        "link": "https://github.com/aoh/radamsa",
+        "maintained": "Yes",
+        "name": "Radamsa ",
+        "stars": 1129
+    },
+    {
+        "author": "Joshua Pereyda",
+        "description": "Boofuzz is a fork of and the successor to the venerable Sulley fuzzing framework. Besides numerous bug fixes, boofuzz aims for extensibility. The goal: fuzz everything.",
+        "id": "9",
+        "language": "Python",
+        "link": "https://github.com/jtpereyda/boofuzz",
+        "maintained": "Yes",
+        "name": "Boofuzz ",
+        "stars": 876
+    },
+    {
+        "author": "Joxean",
+        "description": "A distributed fuzzing testing suite with web administration",
+        "id": "10",
+        "language": "Python",
+        "link": "https://github.com/joxeankoret/nightmare",
+        "maintained": "No",
+        "name": "Nightmare ",
+        "stars": 876
+    },
+    {
+        "author": "F-Secure LABS",
+        "description": "Cross Platform Kernel Fuzzer Framework",
+        "id": "11",
+        "language": "C",
+        "link": "https://github.com/FSecureLABS/KernelFuzzer",
+        "maintained": "No",
+        "name": "Kernel Fuzzer ",
+        "stars": 375
+    },
+    {
+        "author": "Andrey Konovalov",
+        "description": "An unsupervised coverage-guided kernel fuzzer",
+        "id": "12",
+        "language": "Go",
+        "link": "https://github.com/google/syzkaller",
+        "maintained": "No",
+        "name": "Syzkaller",
+        "stars": 2864
+    }
+]

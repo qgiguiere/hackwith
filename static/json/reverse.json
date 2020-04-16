@@ -428,5 +428,65 @@
         "maintained": "Yes",
         "name": "mitmproxy",
         "stars": 18286
+    },
+    {
+        "author": "gaasedelen",
+        "description": "Code Coverage Explorer for IDA Pro & Binary Ninja",
+        "id": "44",
+        "language": "Python",
+        "link": "https://github.com/gaasedelen/lighthouse",
+        "maintained": "Yes",
+        "name": "Lighthouse",
+        "stars": 1038
+    },
+    {
+        "author": "Rocky Bernstein",
+        "description": "A cross-version Python bytecode decompiler",
+        "id": "45",
+        "language": "Python",
+        "link": "https://github.com/rocky/python-uncompyle6",
+        "maintained": "Yes",
+        "name": "uncompyle6",
+        "stars": 1632
+    },
+    {
+        "author": "Long Le",
+        "description": "Python Exploit Development Assistance for GDB",
+        "id": "46",
+        "language": "Python",
+        "link": "https://github.com/longld/peda",
+        "maintained": "Yes",
+        "name": "PEDA",
+        "stars": 3994
+    },
+    {
+        "author": "Evan Teran",
+        "description": "A cross platform AArch32/x86/x86-64 debugger.",
+        "id": "47",
+        "language": "C++",
+        "link": "https://github.com/eteran/edb-debugger",
+        "maintained": "Yes",
+        "name": "EDB",
+        "stars": 1509
+    },
+    {
+        "author": "Google",
+        "description": "A binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code.",
+        "id": "48",
+        "language": "Java",
+        "link": "https://github.com/google/binnavi",
+        "maintained": "Yes",
+        "name": "BinNavi",
+        "stars": 2619
+    },
+    {
+        "author": "Google",
+        "description": "A tool used for REST API pentesting",
+        "id": "49",
+        "language": "Ruby",
+        "link": "https://github.com/Fuzzapi/fuzzapi",
+        "maintained": "No",
+        "name": "Fuzzapi",
+        "stars": 435
     }
 ]

@@ -40,5 +40,9 @@ def wireless():
 def phish():
     return render_template("phish.html")
 
+@app.route('/fuzzing')
+def fuzzing():
+    return render_template("fuzzing.html")
+
 if __name__ == "__main__":
     app.run(host='0.0.0.0')
